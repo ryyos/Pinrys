@@ -1,0 +1,2001 @@
+12/24/2023 05:51:48 PM - INFO - Perform a search with a query None
+12/24/2023 05:54:07 PM - INFO - Perform a search with a query None
+12/24/2023 05:54:07 PM - ERROR - flag not passed
+12/24/2023 05:54:07 PM - WARNING - Please input the flag according to the conditions
+12/24/2023 05:54:18 PM - INFO - Perform a search with a query None
+12/24/2023 05:54:18 PM - ERROR - flag not passed
+12/24/2023 05:54:18 PM - WARNING - Please input the flag according to the conditions
+12/24/2023 06:01:27 PM - ERROR - flag not passed
+12/24/2023 06:01:27 PM - WARNING - Please input the flag according to the conditions
+12/24/2023 06:02:30 PM - WARNING - Maximum size is only 250
+12/24/2023 06:02:30 PM - WARNING - The request size will automatically be set to a maximum of 250
+12/24/2023 06:02:30 PM - INFO - Perform a search with a query ['zero_two']
+12/24/2023 06:02:30 PM - INFO - perform a search by name zero two
+12/24/2023 06:02:30 PM - DEBUG - Starting new HTTPS connection (1): id.pinterest.com:443
+12/24/2023 06:02:33 PM - DEBUG - https://id.pinterest.com:443 "GET /resource/BaseSearchResource/get/?source_url=/search/pins/?q=zero%20two&rs=typed&data=%7B%22options%22:%20%7B%22article%22:%20%22%22,%20%22appliedProductFilters%22:%20%22---%22,%20%22price_max%22:%20%22null%22,%20%22price_min%22:%20%22null%22,%20%22scope%22:%20%22pins%22,%20%22auto_correction_disabled%22:%20%22%22,%20%22top_pin_id%22:%20%22%22,%20%22filters%22:%20%22%22,%20%22query%22:%20%22zero%20two%22,%20%22page_size%22:%20250%7D%7D HTTP/1.1" 200 None
+12/24/2023 06:02:34 PM - INFO - zero two query was found
+12/24/2023 06:02:34 PM - INFO - status 200
+12/24/2023 06:02:34 PM - INFO - data extracted successfully
+12/24/2023 06:02:34 PM - INFO - create folder data/zero_two
+12/24/2023 06:02:34 PM - INFO - create folder data/zero_two/image
+12/24/2023 06:02:34 PM - INFO - create folder data/zero_two/json
+12/24/2023 06:02:34 PM - INFO - Image is being downloaded
+12/24/2023 06:02:46 PM - INFO - image downloaded successfully
+12/24/2023 06:02:46 PM - INFO - Image is being downloaded
+12/24/2023 06:02:46 PM - INFO - image downloaded successfully
+12/24/2023 06:02:46 PM - INFO - Image is being downloaded
+12/24/2023 06:02:47 PM - INFO - image downloaded successfully
+12/24/2023 06:02:47 PM - INFO - Image is being downloaded
+12/24/2023 06:02:48 PM - INFO - image downloaded successfully
+12/24/2023 06:02:48 PM - INFO - Image is being downloaded
+12/24/2023 06:02:49 PM - INFO - image downloaded successfully
+12/24/2023 06:02:49 PM - INFO - Image is being downloaded
+12/24/2023 06:02:50 PM - INFO - image downloaded successfully
+12/24/2023 06:02:50 PM - INFO - Image is being downloaded
+12/24/2023 06:02:51 PM - INFO - image downloaded successfully
+12/24/2023 06:02:51 PM - INFO - Image is being downloaded
+12/24/2023 06:02:52 PM - INFO - image downloaded successfully
+12/24/2023 06:02:52 PM - INFO - Image is being downloaded
+12/24/2023 06:02:52 PM - INFO - image downloaded successfully
+12/24/2023 06:02:52 PM - INFO - Image is being downloaded
+12/24/2023 06:02:54 PM - INFO - image downloaded successfully
+12/24/2023 06:02:54 PM - INFO - Image is being downloaded
+12/24/2023 06:02:55 PM - INFO - image downloaded successfully
+12/24/2023 06:02:55 PM - INFO - Image is being downloaded
+12/24/2023 06:02:57 PM - INFO - image downloaded successfully
+12/24/2023 06:02:57 PM - INFO - Image is being downloaded
+12/24/2023 06:02:57 PM - INFO - image downloaded successfully
+12/24/2023 06:02:57 PM - INFO - Image is being downloaded
+12/24/2023 06:02:58 PM - INFO - image downloaded successfully
+12/24/2023 06:02:58 PM - INFO - Image is being downloaded
+12/24/2023 06:03:00 PM - INFO - image downloaded successfully
+12/24/2023 06:03:00 PM - INFO - Image is being downloaded
+12/24/2023 06:03:00 PM - INFO - image downloaded successfully
+12/24/2023 06:03:00 PM - INFO - Image is being downloaded
+12/24/2023 06:03:01 PM - INFO - image downloaded successfully
+12/24/2023 06:03:01 PM - INFO - Image is being downloaded
+12/24/2023 06:03:02 PM - INFO - image downloaded successfully
+12/24/2023 06:03:02 PM - INFO - Image is being downloaded
+12/24/2023 06:03:03 PM - INFO - image downloaded successfully
+12/24/2023 06:03:03 PM - INFO - Image is being downloaded
+12/24/2023 06:03:04 PM - INFO - image downloaded successfully
+12/24/2023 06:03:04 PM - INFO - Image is being downloaded
+12/24/2023 06:03:04 PM - INFO - image downloaded successfully
+12/24/2023 06:03:04 PM - INFO - Image is being downloaded
+12/24/2023 06:03:05 PM - INFO - image downloaded successfully
+12/24/2023 06:03:05 PM - INFO - Image is being downloaded
+12/24/2023 06:03:16 PM - INFO - image downloaded successfully
+12/24/2023 06:03:16 PM - INFO - Image is being downloaded
+12/24/2023 06:03:17 PM - INFO - image downloaded successfully
+12/24/2023 06:03:17 PM - INFO - Image is being downloaded
+12/24/2023 06:03:17 PM - INFO - image downloaded successfully
+12/24/2023 06:03:17 PM - INFO - Image is being downloaded
+12/24/2023 06:03:18 PM - INFO - image downloaded successfully
+12/24/2023 06:03:18 PM - INFO - Image is being downloaded
+12/24/2023 06:03:19 PM - INFO - image downloaded successfully
+12/24/2023 06:03:19 PM - INFO - Image is being downloaded
+12/24/2023 06:03:19 PM - INFO - image downloaded successfully
+12/24/2023 06:03:19 PM - INFO - Image is being downloaded
+12/24/2023 06:03:20 PM - INFO - image downloaded successfully
+12/24/2023 06:03:20 PM - INFO - Image is being downloaded
+12/24/2023 06:03:21 PM - INFO - image downloaded successfully
+12/24/2023 06:03:21 PM - INFO - Image is being downloaded
+12/24/2023 06:03:22 PM - INFO - image downloaded successfully
+12/24/2023 06:03:22 PM - INFO - Image is being downloaded
+12/24/2023 06:03:23 PM - INFO - image downloaded successfully
+12/24/2023 06:03:23 PM - INFO - Image is being downloaded
+12/24/2023 06:03:24 PM - INFO - image downloaded successfully
+12/24/2023 06:03:24 PM - INFO - Image is being downloaded
+12/24/2023 06:03:25 PM - INFO - image downloaded successfully
+12/24/2023 06:03:25 PM - INFO - Image is being downloaded
+12/24/2023 06:03:26 PM - INFO - image downloaded successfully
+12/24/2023 06:03:26 PM - INFO - Image is being downloaded
+12/24/2023 06:03:27 PM - INFO - image downloaded successfully
+12/24/2023 06:03:27 PM - INFO - Image is being downloaded
+12/24/2023 06:03:27 PM - INFO - image downloaded successfully
+12/24/2023 06:03:27 PM - INFO - Image is being downloaded
+12/24/2023 06:03:28 PM - INFO - image downloaded successfully
+12/24/2023 06:03:28 PM - INFO - Image is being downloaded
+12/24/2023 06:03:29 PM - INFO - image downloaded successfully
+12/24/2023 06:03:29 PM - INFO - Image is being downloaded
+12/24/2023 06:03:34 PM - INFO - image downloaded successfully
+12/24/2023 06:03:34 PM - INFO - Image is being downloaded
+12/24/2023 06:03:34 PM - INFO - image downloaded successfully
+12/24/2023 06:03:34 PM - INFO - Image is being downloaded
+12/24/2023 06:03:35 PM - INFO - image downloaded successfully
+12/24/2023 06:03:35 PM - INFO - Image is being downloaded
+12/24/2023 06:03:36 PM - INFO - image downloaded successfully
+12/24/2023 06:03:36 PM - INFO - Image is being downloaded
+12/24/2023 06:03:36 PM - INFO - image downloaded successfully
+12/24/2023 06:03:36 PM - INFO - Image is being downloaded
+12/24/2023 06:03:37 PM - INFO - image downloaded successfully
+12/24/2023 06:03:37 PM - INFO - Image is being downloaded
+12/24/2023 06:03:38 PM - INFO - image downloaded successfully
+12/24/2023 06:03:38 PM - INFO - Image is being downloaded
+12/24/2023 06:03:38 PM - INFO - image downloaded successfully
+12/24/2023 06:03:38 PM - INFO - Image is being downloaded
+12/24/2023 06:03:39 PM - INFO - image downloaded successfully
+12/24/2023 06:03:39 PM - INFO - Image is being downloaded
+12/24/2023 06:03:40 PM - INFO - image downloaded successfully
+12/24/2023 06:03:40 PM - INFO - Image is being downloaded
+12/24/2023 06:03:40 PM - INFO - image downloaded successfully
+12/24/2023 06:03:40 PM - INFO - Image is being downloaded
+12/24/2023 06:03:41 PM - INFO - image downloaded successfully
+12/24/2023 06:03:41 PM - INFO - Image is being downloaded
+12/24/2023 06:03:42 PM - INFO - image downloaded successfully
+12/24/2023 06:03:42 PM - INFO - Image is being downloaded
+12/24/2023 06:03:42 PM - INFO - image downloaded successfully
+12/24/2023 06:03:42 PM - INFO - Image is being downloaded
+12/24/2023 06:03:43 PM - INFO - image downloaded successfully
+12/24/2023 06:03:43 PM - INFO - Image is being downloaded
+12/24/2023 06:03:44 PM - INFO - image downloaded successfully
+12/24/2023 06:03:44 PM - INFO - Image is being downloaded
+12/24/2023 06:03:45 PM - INFO - image downloaded successfully
+12/24/2023 06:03:45 PM - INFO - Image is being downloaded
+12/24/2023 06:03:46 PM - INFO - image downloaded successfully
+12/24/2023 06:03:46 PM - INFO - Image is being downloaded
+12/24/2023 06:03:47 PM - INFO - image downloaded successfully
+12/24/2023 06:03:47 PM - INFO - Image is being downloaded
+12/24/2023 06:03:48 PM - INFO - image downloaded successfully
+12/24/2023 06:03:48 PM - INFO - Image is being downloaded
+12/24/2023 06:03:48 PM - INFO - image downloaded successfully
+12/24/2023 06:03:48 PM - INFO - Image is being downloaded
+12/24/2023 06:03:49 PM - INFO - image downloaded successfully
+12/24/2023 06:03:49 PM - INFO - Image is being downloaded
+12/24/2023 06:03:50 PM - INFO - image downloaded successfully
+12/24/2023 06:03:50 PM - INFO - Image is being downloaded
+12/24/2023 06:03:50 PM - INFO - image downloaded successfully
+12/24/2023 06:03:50 PM - INFO - Image is being downloaded
+12/24/2023 06:03:51 PM - INFO - image downloaded successfully
+12/24/2023 06:03:51 PM - INFO - Image is being downloaded
+12/24/2023 06:03:52 PM - INFO - image downloaded successfully
+12/24/2023 06:03:52 PM - INFO - Image is being downloaded
+12/24/2023 06:03:53 PM - INFO - image downloaded successfully
+12/24/2023 06:03:53 PM - INFO - Image is being downloaded
+12/24/2023 06:03:55 PM - INFO - image downloaded successfully
+12/24/2023 06:03:55 PM - INFO - Image is being downloaded
+12/24/2023 06:03:57 PM - INFO - image downloaded successfully
+12/24/2023 06:03:57 PM - INFO - Image is being downloaded
+12/24/2023 06:03:58 PM - INFO - image downloaded successfully
+12/24/2023 06:03:58 PM - INFO - Image is being downloaded
+12/24/2023 06:03:58 PM - INFO - image downloaded successfully
+12/24/2023 06:03:58 PM - INFO - Image is being downloaded
+12/24/2023 06:03:58 PM - INFO - image downloaded successfully
+12/24/2023 06:03:58 PM - INFO - Image is being downloaded
+12/24/2023 06:03:59 PM - INFO - image downloaded successfully
+12/24/2023 06:03:59 PM - INFO - Image is being downloaded
+12/24/2023 06:03:59 PM - INFO - image downloaded successfully
+12/24/2023 06:03:59 PM - INFO - Image is being downloaded
+12/24/2023 06:04:00 PM - INFO - image downloaded successfully
+12/24/2023 06:04:00 PM - INFO - Image is being downloaded
+12/24/2023 06:04:01 PM - INFO - image downloaded successfully
+12/24/2023 06:04:01 PM - INFO - Image is being downloaded
+12/24/2023 06:04:01 PM - INFO - image downloaded successfully
+12/24/2023 06:04:01 PM - INFO - Image is being downloaded
+12/24/2023 06:04:02 PM - INFO - image downloaded successfully
+12/24/2023 06:04:02 PM - INFO - Image is being downloaded
+12/24/2023 06:04:03 PM - INFO - image downloaded successfully
+12/24/2023 06:04:03 PM - INFO - Image is being downloaded
+12/24/2023 06:04:03 PM - INFO - image downloaded successfully
+12/24/2023 06:04:03 PM - INFO - Image is being downloaded
+12/24/2023 06:04:04 PM - INFO - image downloaded successfully
+12/24/2023 06:04:04 PM - INFO - Image is being downloaded
+12/24/2023 06:04:04 PM - INFO - image downloaded successfully
+12/24/2023 06:04:04 PM - INFO - Image is being downloaded
+12/24/2023 06:04:05 PM - INFO - image downloaded successfully
+12/24/2023 06:04:05 PM - INFO - Image is being downloaded
+12/24/2023 06:04:06 PM - INFO - image downloaded successfully
+12/24/2023 06:04:06 PM - INFO - Image is being downloaded
+12/24/2023 06:04:07 PM - INFO - image downloaded successfully
+12/24/2023 06:04:07 PM - INFO - Image is being downloaded
+12/24/2023 06:04:08 PM - INFO - image downloaded successfully
+12/24/2023 06:04:08 PM - INFO - Image is being downloaded
+12/24/2023 06:04:08 PM - INFO - image downloaded successfully
+12/24/2023 06:04:08 PM - INFO - Image is being downloaded
+12/24/2023 06:04:09 PM - INFO - image downloaded successfully
+12/24/2023 06:04:09 PM - INFO - Image is being downloaded
+12/24/2023 06:04:10 PM - INFO - image downloaded successfully
+12/24/2023 06:04:10 PM - INFO - Image is being downloaded
+12/24/2023 06:04:11 PM - INFO - image downloaded successfully
+12/24/2023 06:04:11 PM - INFO - Image is being downloaded
+12/24/2023 06:04:12 PM - INFO - image downloaded successfully
+12/24/2023 06:04:12 PM - INFO - Image is being downloaded
+12/24/2023 06:04:12 PM - INFO - image downloaded successfully
+12/24/2023 06:04:12 PM - INFO - Image is being downloaded
+12/24/2023 06:04:13 PM - INFO - image downloaded successfully
+12/24/2023 06:04:13 PM - INFO - Image is being downloaded
+12/24/2023 06:04:14 PM - INFO - image downloaded successfully
+12/24/2023 06:04:14 PM - INFO - Image is being downloaded
+12/24/2023 06:04:14 PM - INFO - image downloaded successfully
+12/24/2023 06:04:14 PM - INFO - Image is being downloaded
+12/24/2023 06:04:15 PM - INFO - image downloaded successfully
+12/24/2023 06:04:15 PM - INFO - Image is being downloaded
+12/24/2023 06:04:16 PM - INFO - image downloaded successfully
+12/24/2023 06:04:16 PM - INFO - Image is being downloaded
+12/24/2023 06:04:18 PM - INFO - image downloaded successfully
+12/24/2023 06:04:18 PM - INFO - Image is being downloaded
+12/24/2023 06:04:19 PM - INFO - image downloaded successfully
+12/24/2023 06:04:19 PM - INFO - Image is being downloaded
+12/24/2023 06:04:19 PM - INFO - image downloaded successfully
+12/24/2023 06:04:19 PM - INFO - Image is being downloaded
+12/24/2023 06:04:20 PM - INFO - image downloaded successfully
+12/24/2023 06:04:20 PM - INFO - Image is being downloaded
+12/24/2023 06:04:21 PM - INFO - image downloaded successfully
+12/24/2023 06:04:21 PM - INFO - Image is being downloaded
+12/24/2023 06:04:21 PM - INFO - image downloaded successfully
+12/24/2023 06:04:21 PM - INFO - Image is being downloaded
+12/24/2023 06:04:23 PM - INFO - image downloaded successfully
+12/24/2023 06:04:23 PM - INFO - Image is being downloaded
+12/24/2023 06:04:23 PM - INFO - image downloaded successfully
+12/24/2023 06:04:23 PM - INFO - Image is being downloaded
+12/24/2023 06:04:24 PM - INFO - image downloaded successfully
+12/24/2023 06:04:24 PM - INFO - Image is being downloaded
+12/24/2023 06:04:25 PM - INFO - image downloaded successfully
+12/24/2023 06:04:25 PM - INFO - Image is being downloaded
+12/24/2023 06:04:25 PM - INFO - image downloaded successfully
+12/24/2023 06:04:25 PM - INFO - Image is being downloaded
+12/24/2023 06:04:26 PM - INFO - image downloaded successfully
+12/24/2023 06:04:26 PM - INFO - Image is being downloaded
+12/24/2023 06:04:26 PM - INFO - image downloaded successfully
+12/24/2023 06:04:26 PM - INFO - Image is being downloaded
+12/24/2023 06:04:27 PM - INFO - image downloaded successfully
+12/24/2023 06:04:27 PM - INFO - Image is being downloaded
+12/24/2023 06:04:28 PM - INFO - image downloaded successfully
+12/24/2023 06:04:28 PM - INFO - Image is being downloaded
+12/24/2023 06:04:29 PM - INFO - image downloaded successfully
+12/24/2023 06:04:29 PM - INFO - Image is being downloaded
+12/24/2023 06:04:30 PM - INFO - image downloaded successfully
+12/24/2023 06:04:30 PM - INFO - Image is being downloaded
+12/24/2023 06:04:31 PM - INFO - image downloaded successfully
+12/24/2023 06:04:31 PM - INFO - Image is being downloaded
+12/24/2023 06:04:31 PM - INFO - image downloaded successfully
+12/24/2023 06:04:31 PM - INFO - Image is being downloaded
+12/24/2023 06:04:32 PM - INFO - image downloaded successfully
+12/24/2023 06:04:32 PM - INFO - Image is being downloaded
+12/24/2023 06:04:33 PM - INFO - image downloaded successfully
+12/24/2023 06:04:33 PM - INFO - Image is being downloaded
+12/24/2023 06:04:34 PM - INFO - image downloaded successfully
+12/24/2023 06:04:34 PM - INFO - Image is being downloaded
+12/24/2023 06:04:34 PM - INFO - image downloaded successfully
+12/24/2023 06:04:34 PM - INFO - Image is being downloaded
+12/24/2023 06:04:36 PM - INFO - image downloaded successfully
+12/24/2023 06:04:36 PM - INFO - Image is being downloaded
+12/24/2023 06:04:36 PM - INFO - image downloaded successfully
+12/24/2023 06:04:36 PM - INFO - Image is being downloaded
+12/24/2023 06:04:37 PM - INFO - image downloaded successfully
+12/24/2023 06:04:37 PM - INFO - Image is being downloaded
+12/24/2023 06:04:38 PM - INFO - image downloaded successfully
+12/24/2023 06:04:38 PM - INFO - Image is being downloaded
+12/24/2023 06:04:39 PM - INFO - image downloaded successfully
+12/24/2023 06:04:39 PM - INFO - Image is being downloaded
+12/24/2023 06:04:40 PM - INFO - image downloaded successfully
+12/24/2023 06:04:40 PM - INFO - Image is being downloaded
+12/24/2023 06:04:41 PM - INFO - image downloaded successfully
+12/24/2023 06:04:41 PM - INFO - Image is being downloaded
+12/24/2023 06:04:41 PM - INFO - image downloaded successfully
+12/24/2023 06:04:41 PM - INFO - Image is being downloaded
+12/24/2023 06:04:42 PM - INFO - image downloaded successfully
+12/24/2023 06:04:42 PM - INFO - Image is being downloaded
+12/24/2023 06:04:44 PM - INFO - image downloaded successfully
+12/24/2023 06:04:44 PM - INFO - Image is being downloaded
+12/24/2023 06:04:45 PM - INFO - image downloaded successfully
+12/24/2023 06:04:45 PM - INFO - Image is being downloaded
+12/24/2023 06:04:45 PM - INFO - image downloaded successfully
+12/24/2023 06:04:45 PM - INFO - Image is being downloaded
+12/24/2023 06:04:46 PM - INFO - image downloaded successfully
+12/24/2023 06:04:46 PM - INFO - Image is being downloaded
+12/24/2023 06:04:47 PM - INFO - image downloaded successfully
+12/24/2023 06:04:47 PM - INFO - Image is being downloaded
+12/24/2023 06:04:48 PM - INFO - image downloaded successfully
+12/24/2023 06:04:48 PM - INFO - Image is being downloaded
+12/24/2023 06:04:49 PM - INFO - image downloaded successfully
+12/24/2023 06:04:49 PM - INFO - Image is being downloaded
+12/24/2023 06:04:49 PM - INFO - image downloaded successfully
+12/24/2023 06:04:49 PM - INFO - Image is being downloaded
+12/24/2023 06:04:50 PM - INFO - image downloaded successfully
+12/24/2023 06:04:50 PM - INFO - Image is being downloaded
+12/24/2023 06:04:51 PM - INFO - image downloaded successfully
+12/24/2023 06:04:51 PM - INFO - Image is being downloaded
+12/24/2023 06:04:52 PM - INFO - image downloaded successfully
+12/24/2023 06:04:52 PM - INFO - Image is being downloaded
+12/24/2023 06:04:52 PM - INFO - image downloaded successfully
+12/24/2023 06:04:52 PM - INFO - Image is being downloaded
+12/24/2023 06:04:54 PM - INFO - image downloaded successfully
+12/24/2023 06:04:54 PM - INFO - Image is being downloaded
+12/24/2023 06:04:55 PM - INFO - image downloaded successfully
+12/24/2023 06:04:55 PM - INFO - Image is being downloaded
+12/24/2023 06:04:57 PM - INFO - image downloaded successfully
+12/24/2023 06:04:57 PM - INFO - Image is being downloaded
+12/24/2023 06:04:58 PM - INFO - image downloaded successfully
+12/24/2023 06:04:58 PM - INFO - Image is being downloaded
+12/24/2023 06:04:59 PM - INFO - image downloaded successfully
+12/24/2023 06:04:59 PM - INFO - Image is being downloaded
+12/24/2023 06:05:00 PM - INFO - image downloaded successfully
+12/24/2023 06:05:00 PM - INFO - Image is being downloaded
+12/24/2023 06:05:01 PM - INFO - image downloaded successfully
+12/24/2023 06:05:01 PM - INFO - Image is being downloaded
+12/24/2023 06:05:02 PM - INFO - image downloaded successfully
+12/24/2023 06:05:02 PM - INFO - Image is being downloaded
+12/24/2023 06:05:03 PM - INFO - image downloaded successfully
+12/24/2023 06:05:03 PM - INFO - Image is being downloaded
+12/24/2023 06:05:04 PM - INFO - image downloaded successfully
+12/24/2023 06:05:04 PM - INFO - Image is being downloaded
+12/24/2023 06:05:05 PM - INFO - image downloaded successfully
+12/24/2023 06:05:05 PM - INFO - Image is being downloaded
+12/24/2023 06:05:07 PM - INFO - image downloaded successfully
+12/24/2023 06:05:07 PM - INFO - Image is being downloaded
+12/24/2023 06:05:08 PM - INFO - image downloaded successfully
+12/24/2023 06:05:08 PM - INFO - Image is being downloaded
+12/24/2023 06:05:08 PM - INFO - image downloaded successfully
+12/24/2023 06:05:08 PM - INFO - Image is being downloaded
+12/24/2023 06:05:09 PM - INFO - image downloaded successfully
+12/24/2023 06:05:09 PM - INFO - Image is being downloaded
+12/24/2023 06:05:10 PM - INFO - image downloaded successfully
+12/24/2023 06:05:10 PM - INFO - Image is being downloaded
+12/24/2023 06:05:11 PM - INFO - image downloaded successfully
+12/24/2023 06:05:11 PM - INFO - Image is being downloaded
+12/24/2023 06:05:12 PM - INFO - image downloaded successfully
+12/24/2023 06:05:12 PM - INFO - Image is being downloaded
+12/24/2023 06:05:12 PM - INFO - image downloaded successfully
+12/24/2023 06:05:12 PM - INFO - Image is being downloaded
+12/24/2023 06:05:13 PM - INFO - image downloaded successfully
+12/24/2023 06:05:13 PM - INFO - Image is being downloaded
+12/24/2023 06:05:14 PM - INFO - image downloaded successfully
+12/24/2023 06:05:14 PM - INFO - Image is being downloaded
+12/24/2023 06:05:15 PM - INFO - image downloaded successfully
+12/24/2023 06:05:15 PM - INFO - Image is being downloaded
+12/24/2023 06:05:15 PM - INFO - image downloaded successfully
+12/24/2023 06:05:15 PM - INFO - Image is being downloaded
+12/24/2023 06:05:16 PM - INFO - image downloaded successfully
+12/24/2023 06:05:16 PM - INFO - Image is being downloaded
+12/24/2023 06:05:17 PM - INFO - image downloaded successfully
+12/24/2023 06:05:17 PM - INFO - Image is being downloaded
+12/24/2023 06:05:17 PM - INFO - image downloaded successfully
+12/24/2023 06:05:17 PM - INFO - Image is being downloaded
+12/24/2023 06:05:18 PM - INFO - image downloaded successfully
+12/24/2023 06:05:18 PM - INFO - Image is being downloaded
+12/24/2023 06:05:20 PM - INFO - image downloaded successfully
+12/24/2023 06:05:20 PM - INFO - Image is being downloaded
+12/24/2023 06:05:20 PM - INFO - image downloaded successfully
+12/24/2023 06:05:20 PM - INFO - Image is being downloaded
+12/24/2023 06:05:21 PM - INFO - image downloaded successfully
+12/24/2023 06:05:21 PM - INFO - Image is being downloaded
+12/24/2023 06:05:22 PM - INFO - image downloaded successfully
+12/24/2023 06:05:22 PM - INFO - Image is being downloaded
+12/24/2023 06:05:23 PM - INFO - image downloaded successfully
+12/24/2023 06:05:23 PM - INFO - Image is being downloaded
+12/24/2023 06:05:24 PM - INFO - image downloaded successfully
+12/24/2023 06:05:24 PM - INFO - Image is being downloaded
+12/24/2023 06:05:24 PM - INFO - image downloaded successfully
+12/24/2023 06:05:24 PM - INFO - Image is being downloaded
+12/24/2023 06:05:25 PM - INFO - image downloaded successfully
+12/24/2023 06:05:25 PM - INFO - Image is being downloaded
+12/24/2023 06:05:26 PM - INFO - image downloaded successfully
+12/24/2023 06:05:26 PM - INFO - Image is being downloaded
+12/24/2023 06:05:27 PM - INFO - image downloaded successfully
+12/24/2023 06:05:27 PM - INFO - Image is being downloaded
+12/24/2023 06:05:27 PM - INFO - image downloaded successfully
+12/24/2023 06:05:27 PM - INFO - Image is being downloaded
+12/24/2023 06:05:29 PM - INFO - image downloaded successfully
+12/24/2023 06:05:29 PM - INFO - Image is being downloaded
+12/24/2023 06:05:30 PM - INFO - image downloaded successfully
+12/24/2023 06:05:30 PM - INFO - Image is being downloaded
+12/24/2023 06:05:31 PM - INFO - image downloaded successfully
+12/24/2023 06:05:31 PM - INFO - Image is being downloaded
+12/24/2023 06:05:32 PM - INFO - image downloaded successfully
+12/24/2023 06:05:32 PM - INFO - Image is being downloaded
+12/24/2023 06:05:33 PM - INFO - image downloaded successfully
+12/24/2023 06:05:33 PM - INFO - Image is being downloaded
+12/24/2023 06:05:33 PM - INFO - image downloaded successfully
+12/24/2023 06:05:33 PM - INFO - Image is being downloaded
+12/24/2023 06:05:34 PM - INFO - image downloaded successfully
+12/24/2023 06:05:34 PM - INFO - Image is being downloaded
+12/24/2023 06:05:35 PM - INFO - image downloaded successfully
+12/24/2023 06:05:35 PM - INFO - Image is being downloaded
+12/24/2023 06:05:36 PM - INFO - image downloaded successfully
+12/24/2023 06:05:36 PM - INFO - Image is being downloaded
+12/24/2023 06:05:37 PM - INFO - image downloaded successfully
+12/24/2023 06:05:37 PM - INFO - Image is being downloaded
+12/24/2023 06:05:38 PM - INFO - image downloaded successfully
+12/24/2023 06:05:38 PM - INFO - Image is being downloaded
+12/24/2023 06:05:39 PM - INFO - image downloaded successfully
+12/24/2023 06:05:39 PM - INFO - Image is being downloaded
+12/24/2023 06:05:42 PM - INFO - image downloaded successfully
+12/24/2023 06:05:42 PM - INFO - Image is being downloaded
+12/24/2023 06:05:43 PM - INFO - image downloaded successfully
+12/24/2023 06:05:43 PM - INFO - Image is being downloaded
+12/24/2023 06:05:44 PM - INFO - image downloaded successfully
+12/24/2023 06:05:44 PM - INFO - Image is being downloaded
+12/24/2023 06:05:44 PM - INFO - image downloaded successfully
+12/24/2023 06:05:44 PM - INFO - Image is being downloaded
+12/24/2023 06:05:46 PM - INFO - image downloaded successfully
+12/24/2023 06:05:46 PM - INFO - Image is being downloaded
+12/24/2023 06:05:46 PM - INFO - image downloaded successfully
+12/24/2023 06:05:46 PM - INFO - Image is being downloaded
+12/24/2023 06:05:47 PM - INFO - image downloaded successfully
+12/24/2023 06:05:47 PM - INFO - Image is being downloaded
+12/24/2023 06:05:48 PM - INFO - image downloaded successfully
+12/24/2023 06:05:48 PM - INFO - Image is being downloaded
+12/24/2023 06:05:48 PM - INFO - image downloaded successfully
+12/24/2023 06:05:48 PM - INFO - Image is being downloaded
+12/24/2023 06:05:50 PM - INFO - image downloaded successfully
+12/24/2023 06:05:50 PM - INFO - Image is being downloaded
+12/24/2023 06:05:51 PM - INFO - image downloaded successfully
+12/24/2023 06:05:51 PM - INFO - Image is being downloaded
+12/24/2023 06:05:52 PM - INFO - image downloaded successfully
+12/24/2023 06:05:52 PM - INFO - Image is being downloaded
+12/24/2023 06:05:53 PM - INFO - image downloaded successfully
+12/24/2023 06:05:53 PM - INFO - Image is being downloaded
+12/24/2023 06:05:54 PM - INFO - image downloaded successfully
+12/24/2023 06:05:54 PM - INFO - Image is being downloaded
+12/24/2023 06:05:55 PM - INFO - image downloaded successfully
+12/24/2023 06:05:55 PM - INFO - Image is being downloaded
+12/24/2023 06:05:56 PM - INFO - image downloaded successfully
+12/24/2023 06:05:56 PM - INFO - Image is being downloaded
+12/24/2023 06:05:56 PM - INFO - image downloaded successfully
+12/24/2023 06:05:56 PM - INFO - Image is being downloaded
+12/24/2023 06:05:57 PM - INFO - image downloaded successfully
+12/24/2023 06:05:57 PM - INFO - Image is being downloaded
+12/24/2023 06:05:58 PM - INFO - image downloaded successfully
+12/24/2023 06:05:58 PM - INFO - Image is being downloaded
+12/24/2023 06:05:59 PM - INFO - image downloaded successfully
+12/24/2023 06:05:59 PM - INFO - Image is being downloaded
+12/24/2023 06:06:00 PM - INFO - image downloaded successfully
+12/24/2023 06:06:00 PM - INFO - Image is being downloaded
+12/24/2023 06:06:01 PM - INFO - image downloaded successfully
+12/24/2023 06:06:01 PM - INFO - Image is being downloaded
+12/24/2023 06:06:01 PM - INFO - image downloaded successfully
+12/24/2023 06:06:01 PM - INFO - Image is being downloaded
+12/24/2023 06:06:02 PM - INFO - image downloaded successfully
+12/24/2023 06:06:02 PM - INFO - Image is being downloaded
+12/24/2023 06:06:03 PM - INFO - image downloaded successfully
+12/24/2023 06:06:03 PM - INFO - Image is being downloaded
+12/24/2023 06:06:04 PM - INFO - image downloaded successfully
+12/24/2023 06:06:04 PM - INFO - Image is being downloaded
+12/24/2023 06:06:05 PM - INFO - image downloaded successfully
+12/24/2023 06:06:05 PM - INFO - Image is being downloaded
+12/24/2023 06:06:06 PM - INFO - image downloaded successfully
+12/24/2023 06:06:06 PM - INFO - Image is being downloaded
+12/24/2023 06:06:06 PM - INFO - image downloaded successfully
+12/24/2023 06:06:06 PM - INFO - Image is being downloaded
+12/24/2023 06:06:07 PM - INFO - image downloaded successfully
+12/24/2023 06:06:07 PM - INFO - Image is being downloaded
+12/24/2023 06:06:08 PM - INFO - image downloaded successfully
+12/24/2023 06:06:08 PM - INFO - Image is being downloaded
+12/24/2023 06:06:09 PM - INFO - image downloaded successfully
+12/24/2023 06:06:09 PM - INFO - Image is being downloaded
+12/24/2023 06:06:10 PM - INFO - image downloaded successfully
+12/24/2023 06:06:10 PM - INFO - Image is being downloaded
+12/24/2023 06:06:11 PM - INFO - image downloaded successfully
+12/24/2023 06:06:11 PM - INFO - Image is being downloaded
+12/24/2023 06:06:11 PM - INFO - image downloaded successfully
+12/24/2023 06:06:11 PM - INFO - Image is being downloaded
+12/24/2023 06:06:12 PM - INFO - image downloaded successfully
+12/24/2023 06:06:12 PM - INFO - Image is being downloaded
+12/24/2023 06:06:13 PM - INFO - image downloaded successfully
+12/24/2023 06:06:13 PM - INFO - Image is being downloaded
+12/24/2023 06:06:13 PM - INFO - image downloaded successfully
+12/24/2023 06:06:13 PM - INFO - Image is being downloaded
+12/24/2023 06:06:14 PM - INFO - image downloaded successfully
+12/24/2023 06:06:14 PM - INFO - Image is being downloaded
+12/24/2023 06:06:15 PM - INFO - image downloaded successfully
+12/24/2023 06:06:15 PM - INFO - Image is being downloaded
+12/24/2023 06:06:15 PM - INFO - image downloaded successfully
+12/24/2023 06:06:15 PM - INFO - Image is being downloaded
+12/24/2023 06:06:16 PM - INFO - image downloaded successfully
+12/24/2023 06:06:16 PM - INFO - Image is being downloaded
+12/24/2023 06:06:18 PM - INFO - image downloaded successfully
+12/24/2023 06:06:18 PM - INFO - Image is being downloaded
+12/24/2023 06:06:18 PM - INFO - image downloaded successfully
+12/24/2023 06:06:18 PM - INFO - Image is being downloaded
+12/24/2023 06:06:19 PM - INFO - image downloaded successfully
+12/24/2023 06:06:19 PM - INFO - Image is being downloaded
+12/24/2023 06:06:19 PM - INFO - image downloaded successfully
+12/24/2023 06:06:19 PM - INFO - Image is being downloaded
+12/24/2023 06:06:20 PM - INFO - image downloaded successfully
+12/24/2023 06:06:20 PM - INFO - Image is being downloaded
+12/24/2023 06:06:21 PM - INFO - image downloaded successfully
+12/24/2023 06:12:00 PM - WARNING - Maximum size is only 250
+12/24/2023 06:12:00 PM - WARNING - The request size will automatically be set to a maximum of 250
+12/24/2023 06:12:00 PM - INFO - Perform a search with a query ['jkt48', 'shani_jkt48']
+12/24/2023 06:12:00 PM - INFO - perform a search by name jkt48
+12/24/2023 06:12:00 PM - DEBUG - Starting new HTTPS connection (1): id.pinterest.com:443
+12/24/2023 06:12:14 PM - DEBUG - https://id.pinterest.com:443 "GET /resource/BaseSearchResource/get/?source_url=/search/pins/?q=jkt48&rs=typed&data=%7B%22options%22:%20%7B%22article%22:%20%22%22,%20%22appliedProductFilters%22:%20%22---%22,%20%22price_max%22:%20%22null%22,%20%22price_min%22:%20%22null%22,%20%22scope%22:%20%22pins%22,%20%22auto_correction_disabled%22:%20%22%22,%20%22top_pin_id%22:%20%22%22,%20%22filters%22:%20%22%22,%20%22query%22:%20%22jkt48%22,%20%22page_size%22:%20250%7D%7D HTTP/1.1" 200 None
+12/24/2023 06:12:14 PM - INFO - jkt48 query was found
+12/24/2023 06:12:14 PM - INFO - status 200
+12/24/2023 06:12:14 PM - INFO - data extracted successfully
+12/24/2023 06:12:14 PM - INFO - create folder data/jkt48
+12/24/2023 06:12:14 PM - INFO - create folder data/jkt48/image
+12/24/2023 06:12:14 PM - INFO - create folder data/jkt48/json
+12/24/2023 06:12:14 PM - INFO - jkt48_0 is being downloaded
+12/24/2023 06:12:15 PM - INFO - jkt48_0 downloaded successfully
+12/24/2023 06:12:15 PM - INFO - jkt48_1 is being downloaded
+12/24/2023 06:12:15 PM - INFO - jkt48_1 downloaded successfully
+12/24/2023 06:12:15 PM - INFO - jkt48_2 is being downloaded
+12/24/2023 06:12:16 PM - INFO - jkt48_2 downloaded successfully
+12/24/2023 06:12:16 PM - INFO - jkt48_3 is being downloaded
+12/24/2023 06:12:16 PM - INFO - jkt48_3 downloaded successfully
+12/24/2023 06:12:16 PM - INFO - jkt48_4 is being downloaded
+12/24/2023 06:12:16 PM - INFO - jkt48_4 downloaded successfully
+12/24/2023 06:12:16 PM - INFO - jkt48_5 is being downloaded
+12/24/2023 06:12:17 PM - INFO - jkt48_5 downloaded successfully
+12/24/2023 06:12:17 PM - INFO - jkt48_6 is being downloaded
+12/24/2023 06:12:17 PM - INFO - jkt48_6 downloaded successfully
+12/24/2023 06:12:17 PM - INFO - jkt48_7 is being downloaded
+12/24/2023 06:12:18 PM - INFO - jkt48_7 downloaded successfully
+12/24/2023 06:12:18 PM - INFO - jkt48_8 is being downloaded
+12/24/2023 06:12:18 PM - INFO - jkt48_8 downloaded successfully
+12/24/2023 06:12:18 PM - INFO - jkt48_9 is being downloaded
+12/24/2023 06:12:19 PM - INFO - jkt48_9 downloaded successfully
+12/24/2023 06:12:19 PM - INFO - jkt48_10 is being downloaded
+12/24/2023 06:12:20 PM - INFO - jkt48_10 downloaded successfully
+12/24/2023 06:12:20 PM - INFO - jkt48_11 is being downloaded
+12/24/2023 06:12:20 PM - INFO - jkt48_11 downloaded successfully
+12/24/2023 06:12:20 PM - INFO - jkt48_12 is being downloaded
+12/24/2023 06:12:21 PM - INFO - jkt48_12 downloaded successfully
+12/24/2023 06:12:21 PM - INFO - jkt48_13 is being downloaded
+12/24/2023 06:12:22 PM - INFO - jkt48_13 downloaded successfully
+12/24/2023 06:12:22 PM - INFO - jkt48_14 is being downloaded
+12/24/2023 06:12:23 PM - INFO - jkt48_14 downloaded successfully
+12/24/2023 06:12:23 PM - INFO - jkt48_15 is being downloaded
+12/24/2023 06:12:23 PM - INFO - jkt48_15 downloaded successfully
+12/24/2023 06:12:23 PM - INFO - jkt48_16 is being downloaded
+12/24/2023 06:12:24 PM - INFO - jkt48_16 downloaded successfully
+12/24/2023 06:12:24 PM - INFO - jkt48_17 is being downloaded
+12/24/2023 06:12:25 PM - INFO - jkt48_17 downloaded successfully
+12/24/2023 06:12:25 PM - INFO - jkt48_18 is being downloaded
+12/24/2023 06:12:25 PM - INFO - jkt48_18 downloaded successfully
+12/24/2023 06:12:25 PM - INFO - jkt48_19 is being downloaded
+12/24/2023 06:12:26 PM - INFO - jkt48_19 downloaded successfully
+12/24/2023 06:12:26 PM - INFO - jkt48_20 is being downloaded
+12/24/2023 06:12:27 PM - INFO - jkt48_20 downloaded successfully
+12/24/2023 06:12:27 PM - INFO - jkt48_21 is being downloaded
+12/24/2023 06:12:28 PM - INFO - jkt48_21 downloaded successfully
+12/24/2023 06:12:28 PM - INFO - jkt48_22 is being downloaded
+12/24/2023 06:12:28 PM - INFO - jkt48_22 downloaded successfully
+12/24/2023 06:12:28 PM - INFO - jkt48_23 is being downloaded
+12/24/2023 06:12:29 PM - INFO - jkt48_23 downloaded successfully
+12/24/2023 06:12:29 PM - INFO - jkt48_24 is being downloaded
+12/24/2023 06:12:30 PM - INFO - jkt48_24 downloaded successfully
+12/24/2023 06:12:30 PM - INFO - jkt48_25 is being downloaded
+12/24/2023 06:12:30 PM - INFO - jkt48_25 downloaded successfully
+12/24/2023 06:12:30 PM - INFO - jkt48_26 is being downloaded
+12/24/2023 06:12:30 PM - INFO - jkt48_26 downloaded successfully
+12/24/2023 06:12:30 PM - INFO - jkt48_27 is being downloaded
+12/24/2023 06:12:31 PM - INFO - jkt48_27 downloaded successfully
+12/24/2023 06:12:31 PM - INFO - jkt48_28 is being downloaded
+12/24/2023 06:12:31 PM - INFO - jkt48_28 downloaded successfully
+12/24/2023 06:12:31 PM - INFO - jkt48_29 is being downloaded
+12/24/2023 06:12:32 PM - INFO - jkt48_29 downloaded successfully
+12/24/2023 06:12:32 PM - INFO - jkt48_30 is being downloaded
+12/24/2023 06:12:33 PM - INFO - jkt48_30 downloaded successfully
+12/24/2023 06:12:33 PM - INFO - jkt48_31 is being downloaded
+12/24/2023 06:12:33 PM - INFO - jkt48_31 downloaded successfully
+12/24/2023 06:12:33 PM - INFO - jkt48_32 is being downloaded
+12/24/2023 06:12:34 PM - INFO - jkt48_32 downloaded successfully
+12/24/2023 06:12:34 PM - INFO - jkt48_33 is being downloaded
+12/24/2023 06:12:34 PM - INFO - jkt48_33 downloaded successfully
+12/24/2023 06:12:34 PM - INFO - jkt48_34 is being downloaded
+12/24/2023 06:12:35 PM - INFO - jkt48_34 downloaded successfully
+12/24/2023 06:12:35 PM - INFO - jkt48_35 is being downloaded
+12/24/2023 06:12:35 PM - INFO - jkt48_35 downloaded successfully
+12/24/2023 06:12:35 PM - INFO - jkt48_36 is being downloaded
+12/24/2023 06:12:36 PM - INFO - jkt48_36 downloaded successfully
+12/24/2023 06:12:36 PM - INFO - jkt48_37 is being downloaded
+12/24/2023 06:12:37 PM - INFO - jkt48_37 downloaded successfully
+12/24/2023 06:12:37 PM - INFO - jkt48_38 is being downloaded
+12/24/2023 06:12:37 PM - INFO - jkt48_38 downloaded successfully
+12/24/2023 06:12:37 PM - INFO - jkt48_39 is being downloaded
+12/24/2023 06:12:38 PM - INFO - jkt48_39 downloaded successfully
+12/24/2023 06:12:38 PM - INFO - jkt48_40 is being downloaded
+12/24/2023 06:12:38 PM - INFO - jkt48_40 downloaded successfully
+12/24/2023 06:12:38 PM - INFO - jkt48_41 is being downloaded
+12/24/2023 06:12:38 PM - INFO - jkt48_41 downloaded successfully
+12/24/2023 06:12:38 PM - INFO - jkt48_42 is being downloaded
+12/24/2023 06:12:39 PM - INFO - jkt48_42 downloaded successfully
+12/24/2023 06:12:39 PM - INFO - jkt48_43 is being downloaded
+12/24/2023 06:12:39 PM - INFO - jkt48_43 downloaded successfully
+12/24/2023 06:12:39 PM - INFO - jkt48_44 is being downloaded
+12/24/2023 06:12:40 PM - INFO - jkt48_44 downloaded successfully
+12/24/2023 06:12:40 PM - INFO - jkt48_45 is being downloaded
+12/24/2023 06:12:41 PM - INFO - jkt48_45 downloaded successfully
+12/24/2023 06:12:41 PM - INFO - jkt48_46 is being downloaded
+12/24/2023 06:12:42 PM - INFO - jkt48_46 downloaded successfully
+12/24/2023 06:12:42 PM - INFO - jkt48_47 is being downloaded
+12/24/2023 06:12:43 PM - INFO - jkt48_47 downloaded successfully
+12/24/2023 06:12:43 PM - INFO - jkt48_48 is being downloaded
+12/24/2023 06:12:43 PM - INFO - jkt48_48 downloaded successfully
+12/24/2023 06:12:43 PM - INFO - jkt48_49 is being downloaded
+12/24/2023 06:12:44 PM - INFO - jkt48_49 downloaded successfully
+12/24/2023 06:12:44 PM - INFO - jkt48_50 is being downloaded
+12/24/2023 06:12:45 PM - INFO - jkt48_50 downloaded successfully
+12/24/2023 06:12:45 PM - INFO - jkt48_51 is being downloaded
+12/24/2023 06:12:45 PM - INFO - jkt48_51 downloaded successfully
+12/24/2023 06:12:45 PM - INFO - jkt48_52 is being downloaded
+12/24/2023 06:12:46 PM - INFO - jkt48_52 downloaded successfully
+12/24/2023 06:12:46 PM - INFO - jkt48_53 is being downloaded
+12/24/2023 06:12:46 PM - INFO - jkt48_53 downloaded successfully
+12/24/2023 06:12:46 PM - INFO - jkt48_54 is being downloaded
+12/24/2023 06:12:58 PM - INFO - jkt48_54 downloaded successfully
+12/24/2023 06:12:58 PM - INFO - jkt48_55 is being downloaded
+12/24/2023 06:12:58 PM - INFO - jkt48_55 downloaded successfully
+12/24/2023 06:12:58 PM - INFO - jkt48_56 is being downloaded
+12/24/2023 06:12:59 PM - INFO - jkt48_56 downloaded successfully
+12/24/2023 06:12:59 PM - INFO - jkt48_57 is being downloaded
+12/24/2023 06:13:00 PM - INFO - jkt48_57 downloaded successfully
+12/24/2023 06:13:00 PM - INFO - jkt48_58 is being downloaded
+12/24/2023 06:13:00 PM - INFO - jkt48_58 downloaded successfully
+12/24/2023 06:13:00 PM - INFO - jkt48_59 is being downloaded
+12/24/2023 06:13:00 PM - INFO - jkt48_59 downloaded successfully
+12/24/2023 06:13:00 PM - INFO - jkt48_60 is being downloaded
+12/24/2023 06:13:01 PM - INFO - jkt48_60 downloaded successfully
+12/24/2023 06:13:01 PM - INFO - jkt48_61 is being downloaded
+12/24/2023 06:13:02 PM - INFO - jkt48_61 downloaded successfully
+12/24/2023 06:13:02 PM - INFO - jkt48_62 is being downloaded
+12/24/2023 06:13:02 PM - INFO - jkt48_62 downloaded successfully
+12/24/2023 06:13:02 PM - INFO - jkt48_63 is being downloaded
+12/24/2023 06:13:03 PM - INFO - jkt48_63 downloaded successfully
+12/24/2023 06:13:03 PM - INFO - jkt48_64 is being downloaded
+12/24/2023 06:13:04 PM - INFO - jkt48_64 downloaded successfully
+12/24/2023 06:13:04 PM - INFO - jkt48_65 is being downloaded
+12/24/2023 06:13:04 PM - INFO - jkt48_65 downloaded successfully
+12/24/2023 06:13:04 PM - INFO - jkt48_66 is being downloaded
+12/24/2023 06:13:05 PM - INFO - jkt48_66 downloaded successfully
+12/24/2023 06:13:05 PM - INFO - jkt48_67 is being downloaded
+12/24/2023 06:13:06 PM - INFO - jkt48_67 downloaded successfully
+12/24/2023 06:13:06 PM - INFO - jkt48_68 is being downloaded
+12/24/2023 06:13:06 PM - INFO - jkt48_68 downloaded successfully
+12/24/2023 06:13:06 PM - INFO - jkt48_69 is being downloaded
+12/24/2023 06:13:07 PM - INFO - jkt48_69 downloaded successfully
+12/24/2023 06:13:07 PM - INFO - jkt48_70 is being downloaded
+12/24/2023 06:13:08 PM - INFO - jkt48_70 downloaded successfully
+12/24/2023 06:13:08 PM - INFO - jkt48_71 is being downloaded
+12/24/2023 06:13:08 PM - INFO - jkt48_71 downloaded successfully
+12/24/2023 06:13:08 PM - INFO - jkt48_72 is being downloaded
+12/24/2023 06:13:08 PM - INFO - jkt48_72 downloaded successfully
+12/24/2023 06:13:08 PM - INFO - jkt48_73 is being downloaded
+12/24/2023 06:13:20 PM - INFO - jkt48_73 downloaded successfully
+12/24/2023 06:13:20 PM - INFO - jkt48_74 is being downloaded
+12/24/2023 06:13:21 PM - INFO - jkt48_74 downloaded successfully
+12/24/2023 06:13:21 PM - INFO - jkt48_75 is being downloaded
+12/24/2023 06:13:22 PM - INFO - jkt48_75 downloaded successfully
+12/24/2023 06:13:22 PM - INFO - jkt48_76 is being downloaded
+12/24/2023 06:13:22 PM - INFO - jkt48_76 downloaded successfully
+12/24/2023 06:13:22 PM - INFO - jkt48_77 is being downloaded
+12/24/2023 06:13:23 PM - INFO - jkt48_77 downloaded successfully
+12/24/2023 06:13:23 PM - INFO - jkt48_78 is being downloaded
+12/24/2023 06:13:24 PM - INFO - jkt48_78 downloaded successfully
+12/24/2023 06:13:24 PM - INFO - jkt48_79 is being downloaded
+12/24/2023 06:13:24 PM - INFO - jkt48_79 downloaded successfully
+12/24/2023 06:13:24 PM - INFO - jkt48_80 is being downloaded
+12/24/2023 06:13:25 PM - INFO - jkt48_80 downloaded successfully
+12/24/2023 06:13:25 PM - INFO - jkt48_81 is being downloaded
+12/24/2023 06:13:25 PM - INFO - jkt48_81 downloaded successfully
+12/24/2023 06:13:25 PM - INFO - jkt48_82 is being downloaded
+12/24/2023 06:13:26 PM - INFO - jkt48_82 downloaded successfully
+12/24/2023 06:13:26 PM - INFO - jkt48_83 is being downloaded
+12/24/2023 06:13:27 PM - INFO - jkt48_83 downloaded successfully
+12/24/2023 06:13:27 PM - INFO - jkt48_84 is being downloaded
+12/24/2023 06:13:28 PM - INFO - jkt48_84 downloaded successfully
+12/24/2023 06:13:28 PM - INFO - jkt48_85 is being downloaded
+12/24/2023 06:13:28 PM - INFO - jkt48_85 downloaded successfully
+12/24/2023 06:13:28 PM - INFO - jkt48_86 is being downloaded
+12/24/2023 06:13:29 PM - INFO - jkt48_86 downloaded successfully
+12/24/2023 06:13:29 PM - INFO - jkt48_87 is being downloaded
+12/24/2023 06:13:29 PM - INFO - jkt48_87 downloaded successfully
+12/24/2023 06:13:29 PM - INFO - jkt48_88 is being downloaded
+12/24/2023 06:13:30 PM - INFO - jkt48_88 downloaded successfully
+12/24/2023 06:13:30 PM - INFO - jkt48_89 is being downloaded
+12/24/2023 06:13:30 PM - INFO - jkt48_89 downloaded successfully
+12/24/2023 06:13:30 PM - INFO - jkt48_90 is being downloaded
+12/24/2023 06:13:30 PM - INFO - jkt48_90 downloaded successfully
+12/24/2023 06:13:30 PM - INFO - jkt48_91 is being downloaded
+12/24/2023 06:13:31 PM - INFO - jkt48_91 downloaded successfully
+12/24/2023 06:13:31 PM - INFO - jkt48_92 is being downloaded
+12/24/2023 06:13:31 PM - INFO - jkt48_92 downloaded successfully
+12/24/2023 06:13:31 PM - INFO - jkt48_93 is being downloaded
+12/24/2023 06:13:32 PM - INFO - jkt48_93 downloaded successfully
+12/24/2023 06:13:32 PM - INFO - jkt48_94 is being downloaded
+12/24/2023 06:13:33 PM - INFO - jkt48_94 downloaded successfully
+12/24/2023 06:13:33 PM - INFO - jkt48_95 is being downloaded
+12/24/2023 06:13:33 PM - INFO - jkt48_95 downloaded successfully
+12/24/2023 06:13:33 PM - INFO - jkt48_96 is being downloaded
+12/24/2023 06:13:34 PM - INFO - jkt48_96 downloaded successfully
+12/24/2023 06:13:34 PM - INFO - jkt48_97 is being downloaded
+12/24/2023 06:13:46 PM - INFO - jkt48_97 downloaded successfully
+12/24/2023 06:13:46 PM - INFO - jkt48_98 is being downloaded
+12/24/2023 06:13:46 PM - INFO - jkt48_98 downloaded successfully
+12/24/2023 06:13:46 PM - INFO - jkt48_99 is being downloaded
+12/24/2023 06:13:47 PM - INFO - jkt48_99 downloaded successfully
+12/24/2023 06:13:47 PM - INFO - jkt48_100 is being downloaded
+12/24/2023 06:13:48 PM - INFO - jkt48_100 downloaded successfully
+12/24/2023 06:13:48 PM - INFO - jkt48_101 is being downloaded
+12/24/2023 06:13:49 PM - INFO - jkt48_101 downloaded successfully
+12/24/2023 06:13:49 PM - INFO - jkt48_102 is being downloaded
+12/24/2023 06:13:49 PM - INFO - jkt48_102 downloaded successfully
+12/24/2023 06:13:49 PM - INFO - jkt48_103 is being downloaded
+12/24/2023 06:13:50 PM - INFO - jkt48_103 downloaded successfully
+12/24/2023 06:13:50 PM - INFO - jkt48_104 is being downloaded
+12/24/2023 06:13:50 PM - INFO - jkt48_104 downloaded successfully
+12/24/2023 06:13:50 PM - INFO - jkt48_105 is being downloaded
+12/24/2023 06:13:51 PM - INFO - jkt48_105 downloaded successfully
+12/24/2023 06:13:51 PM - INFO - jkt48_106 is being downloaded
+12/24/2023 06:13:52 PM - INFO - jkt48_106 downloaded successfully
+12/24/2023 06:13:52 PM - INFO - jkt48_107 is being downloaded
+12/24/2023 06:14:03 PM - INFO - jkt48_107 downloaded successfully
+12/24/2023 06:14:03 PM - INFO - jkt48_108 is being downloaded
+12/24/2023 06:14:04 PM - INFO - jkt48_108 downloaded successfully
+12/24/2023 06:14:04 PM - INFO - jkt48_109 is being downloaded
+12/24/2023 06:14:05 PM - INFO - jkt48_109 downloaded successfully
+12/24/2023 06:14:05 PM - INFO - jkt48_110 is being downloaded
+12/24/2023 06:14:05 PM - INFO - jkt48_110 downloaded successfully
+12/24/2023 06:14:05 PM - INFO - jkt48_111 is being downloaded
+12/24/2023 06:14:06 PM - INFO - jkt48_111 downloaded successfully
+12/24/2023 06:14:06 PM - INFO - jkt48_112 is being downloaded
+12/24/2023 06:14:07 PM - INFO - jkt48_112 downloaded successfully
+12/24/2023 06:14:07 PM - INFO - jkt48_113 is being downloaded
+12/24/2023 06:14:07 PM - INFO - jkt48_113 downloaded successfully
+12/24/2023 06:14:07 PM - INFO - jkt48_114 is being downloaded
+12/24/2023 06:14:08 PM - INFO - jkt48_114 downloaded successfully
+12/24/2023 06:14:08 PM - INFO - jkt48_115 is being downloaded
+12/24/2023 06:14:09 PM - INFO - jkt48_115 downloaded successfully
+12/24/2023 06:14:09 PM - INFO - jkt48_116 is being downloaded
+12/24/2023 06:14:09 PM - INFO - jkt48_116 downloaded successfully
+12/24/2023 06:14:09 PM - INFO - jkt48_117 is being downloaded
+12/24/2023 06:14:10 PM - INFO - jkt48_117 downloaded successfully
+12/24/2023 06:14:10 PM - INFO - jkt48_118 is being downloaded
+12/24/2023 06:14:10 PM - INFO - jkt48_118 downloaded successfully
+12/24/2023 06:14:10 PM - INFO - jkt48_119 is being downloaded
+12/24/2023 06:14:11 PM - INFO - jkt48_119 downloaded successfully
+12/24/2023 06:14:11 PM - INFO - jkt48_120 is being downloaded
+12/24/2023 06:14:11 PM - INFO - jkt48_120 downloaded successfully
+12/24/2023 06:14:11 PM - INFO - jkt48_121 is being downloaded
+12/24/2023 06:14:12 PM - INFO - jkt48_121 downloaded successfully
+12/24/2023 06:14:12 PM - INFO - jkt48_122 is being downloaded
+12/24/2023 06:14:24 PM - INFO - jkt48_122 downloaded successfully
+12/24/2023 06:14:24 PM - INFO - jkt48_123 is being downloaded
+12/24/2023 06:14:24 PM - INFO - jkt48_123 downloaded successfully
+12/24/2023 06:14:24 PM - INFO - jkt48_124 is being downloaded
+12/24/2023 06:14:24 PM - INFO - jkt48_124 downloaded successfully
+12/24/2023 06:14:25 PM - INFO - jkt48_125 is being downloaded
+12/24/2023 06:14:26 PM - INFO - jkt48_125 downloaded successfully
+12/24/2023 06:14:26 PM - INFO - jkt48_126 is being downloaded
+12/24/2023 06:14:27 PM - INFO - jkt48_126 downloaded successfully
+12/24/2023 06:14:27 PM - INFO - jkt48_127 is being downloaded
+12/24/2023 06:14:27 PM - INFO - jkt48_127 downloaded successfully
+12/24/2023 06:14:27 PM - INFO - jkt48_128 is being downloaded
+12/24/2023 06:14:27 PM - INFO - jkt48_128 downloaded successfully
+12/24/2023 06:14:27 PM - INFO - jkt48_129 is being downloaded
+12/24/2023 06:14:28 PM - INFO - jkt48_129 downloaded successfully
+12/24/2023 06:14:28 PM - INFO - jkt48_130 is being downloaded
+12/24/2023 06:14:29 PM - INFO - jkt48_130 downloaded successfully
+12/24/2023 06:14:29 PM - INFO - jkt48_131 is being downloaded
+12/24/2023 06:14:29 PM - INFO - jkt48_131 downloaded successfully
+12/24/2023 06:14:29 PM - INFO - jkt48_132 is being downloaded
+12/24/2023 06:14:30 PM - INFO - jkt48_132 downloaded successfully
+12/24/2023 06:14:30 PM - INFO - jkt48_133 is being downloaded
+12/24/2023 06:14:31 PM - INFO - jkt48_133 downloaded successfully
+12/24/2023 06:14:31 PM - INFO - jkt48_134 is being downloaded
+12/24/2023 06:14:43 PM - INFO - jkt48_134 downloaded successfully
+12/24/2023 06:14:43 PM - INFO - jkt48_135 is being downloaded
+12/24/2023 06:14:44 PM - INFO - jkt48_135 downloaded successfully
+12/24/2023 06:14:44 PM - INFO - jkt48_136 is being downloaded
+12/24/2023 06:14:44 PM - INFO - jkt48_136 downloaded successfully
+12/24/2023 06:14:44 PM - INFO - jkt48_137 is being downloaded
+12/24/2023 06:14:45 PM - INFO - jkt48_137 downloaded successfully
+12/24/2023 06:14:45 PM - INFO - jkt48_138 is being downloaded
+12/24/2023 06:14:45 PM - INFO - jkt48_138 downloaded successfully
+12/24/2023 06:14:45 PM - INFO - jkt48_139 is being downloaded
+12/24/2023 06:14:46 PM - INFO - jkt48_139 downloaded successfully
+12/24/2023 06:14:46 PM - INFO - jkt48_140 is being downloaded
+12/24/2023 06:14:47 PM - INFO - jkt48_140 downloaded successfully
+12/24/2023 06:14:47 PM - INFO - jkt48_141 is being downloaded
+12/24/2023 06:14:47 PM - INFO - jkt48_141 downloaded successfully
+12/24/2023 06:14:47 PM - INFO - jkt48_142 is being downloaded
+12/24/2023 06:14:48 PM - INFO - jkt48_142 downloaded successfully
+12/24/2023 06:14:48 PM - INFO - jkt48_143 is being downloaded
+12/24/2023 06:14:48 PM - INFO - jkt48_143 downloaded successfully
+12/24/2023 06:14:48 PM - INFO - jkt48_144 is being downloaded
+12/24/2023 06:14:49 PM - INFO - jkt48_144 downloaded successfully
+12/24/2023 06:14:49 PM - INFO - jkt48_145 is being downloaded
+12/24/2023 06:14:49 PM - INFO - jkt48_145 downloaded successfully
+12/24/2023 06:14:49 PM - INFO - jkt48_146 is being downloaded
+12/24/2023 06:14:50 PM - INFO - jkt48_146 downloaded successfully
+12/24/2023 06:14:50 PM - INFO - jkt48_147 is being downloaded
+12/24/2023 06:14:51 PM - INFO - jkt48_147 downloaded successfully
+12/24/2023 06:14:51 PM - INFO - jkt48_148 is being downloaded
+12/24/2023 06:14:51 PM - INFO - jkt48_148 downloaded successfully
+12/24/2023 06:14:51 PM - INFO - jkt48_149 is being downloaded
+12/24/2023 06:14:52 PM - INFO - jkt48_149 downloaded successfully
+12/24/2023 06:14:52 PM - INFO - jkt48_150 is being downloaded
+12/24/2023 06:14:52 PM - INFO - jkt48_150 downloaded successfully
+12/24/2023 06:14:52 PM - INFO - jkt48_151 is being downloaded
+12/24/2023 06:14:53 PM - INFO - jkt48_151 downloaded successfully
+12/24/2023 06:14:53 PM - INFO - jkt48_152 is being downloaded
+12/24/2023 06:14:57 PM - INFO - jkt48_152 downloaded successfully
+12/24/2023 06:14:57 PM - INFO - jkt48_153 is being downloaded
+12/24/2023 06:14:58 PM - INFO - jkt48_153 downloaded successfully
+12/24/2023 06:14:58 PM - INFO - jkt48_154 is being downloaded
+12/24/2023 06:14:58 PM - INFO - jkt48_154 downloaded successfully
+12/24/2023 06:14:58 PM - INFO - jkt48_155 is being downloaded
+12/24/2023 06:14:59 PM - INFO - jkt48_155 downloaded successfully
+12/24/2023 06:14:59 PM - INFO - jkt48_156 is being downloaded
+12/24/2023 06:14:59 PM - INFO - jkt48_156 downloaded successfully
+12/24/2023 06:14:59 PM - INFO - jkt48_157 is being downloaded
+12/24/2023 06:15:00 PM - INFO - jkt48_157 downloaded successfully
+12/24/2023 06:15:00 PM - INFO - jkt48_158 is being downloaded
+12/24/2023 06:15:01 PM - INFO - jkt48_158 downloaded successfully
+12/24/2023 06:15:01 PM - INFO - jkt48_159 is being downloaded
+12/24/2023 06:15:02 PM - INFO - jkt48_159 downloaded successfully
+12/24/2023 06:15:02 PM - INFO - jkt48_160 is being downloaded
+12/24/2023 06:15:02 PM - INFO - jkt48_160 downloaded successfully
+12/24/2023 06:15:02 PM - INFO - jkt48_161 is being downloaded
+12/24/2023 06:15:03 PM - INFO - jkt48_161 downloaded successfully
+12/24/2023 06:15:03 PM - INFO - jkt48_162 is being downloaded
+12/24/2023 06:15:03 PM - INFO - jkt48_162 downloaded successfully
+12/24/2023 06:15:03 PM - INFO - jkt48_163 is being downloaded
+12/24/2023 06:15:04 PM - INFO - jkt48_163 downloaded successfully
+12/24/2023 06:15:04 PM - INFO - jkt48_164 is being downloaded
+12/24/2023 06:15:04 PM - INFO - jkt48_164 downloaded successfully
+12/24/2023 06:15:04 PM - INFO - jkt48_165 is being downloaded
+12/24/2023 06:15:05 PM - INFO - jkt48_165 downloaded successfully
+12/24/2023 06:15:05 PM - INFO - jkt48_166 is being downloaded
+12/24/2023 06:15:05 PM - INFO - jkt48_166 downloaded successfully
+12/24/2023 06:15:05 PM - INFO - jkt48_167 is being downloaded
+12/24/2023 06:15:06 PM - INFO - jkt48_167 downloaded successfully
+12/24/2023 06:15:06 PM - INFO - jkt48_168 is being downloaded
+12/24/2023 06:15:07 PM - INFO - jkt48_168 downloaded successfully
+12/24/2023 06:15:07 PM - INFO - jkt48_169 is being downloaded
+12/24/2023 06:15:08 PM - INFO - jkt48_169 downloaded successfully
+12/24/2023 06:15:08 PM - INFO - jkt48_170 is being downloaded
+12/24/2023 06:15:09 PM - INFO - jkt48_170 downloaded successfully
+12/24/2023 06:15:09 PM - INFO - jkt48_171 is being downloaded
+12/24/2023 06:15:09 PM - INFO - jkt48_171 downloaded successfully
+12/24/2023 06:15:09 PM - INFO - jkt48_172 is being downloaded
+12/24/2023 06:15:10 PM - INFO - jkt48_172 downloaded successfully
+12/24/2023 06:15:10 PM - INFO - jkt48_173 is being downloaded
+12/24/2023 06:15:11 PM - INFO - jkt48_173 downloaded successfully
+12/24/2023 06:15:11 PM - INFO - jkt48_174 is being downloaded
+12/24/2023 06:15:11 PM - INFO - jkt48_174 downloaded successfully
+12/24/2023 06:15:11 PM - INFO - jkt48_175 is being downloaded
+12/24/2023 06:15:12 PM - INFO - jkt48_175 downloaded successfully
+12/24/2023 06:15:12 PM - INFO - jkt48_176 is being downloaded
+12/24/2023 06:15:13 PM - INFO - jkt48_176 downloaded successfully
+12/24/2023 06:15:13 PM - INFO - jkt48_177 is being downloaded
+12/24/2023 06:15:13 PM - INFO - jkt48_177 downloaded successfully
+12/24/2023 06:15:13 PM - INFO - jkt48_178 is being downloaded
+12/24/2023 06:15:14 PM - INFO - jkt48_178 downloaded successfully
+12/24/2023 06:15:14 PM - INFO - jkt48_179 is being downloaded
+12/24/2023 06:15:15 PM - INFO - jkt48_179 downloaded successfully
+12/24/2023 06:15:15 PM - INFO - jkt48_180 is being downloaded
+12/24/2023 06:15:15 PM - INFO - jkt48_180 downloaded successfully
+12/24/2023 06:15:15 PM - INFO - jkt48_181 is being downloaded
+12/24/2023 06:15:16 PM - INFO - jkt48_181 downloaded successfully
+12/24/2023 06:15:16 PM - INFO - jkt48_182 is being downloaded
+12/24/2023 06:15:17 PM - INFO - jkt48_182 downloaded successfully
+12/24/2023 06:15:17 PM - INFO - jkt48_183 is being downloaded
+12/24/2023 06:15:18 PM - INFO - jkt48_183 downloaded successfully
+12/24/2023 06:15:18 PM - INFO - jkt48_184 is being downloaded
+12/24/2023 06:15:18 PM - INFO - jkt48_184 downloaded successfully
+12/24/2023 06:15:18 PM - INFO - jkt48_185 is being downloaded
+12/24/2023 06:15:19 PM - INFO - jkt48_185 downloaded successfully
+12/24/2023 06:15:19 PM - INFO - jkt48_186 is being downloaded
+12/24/2023 06:15:20 PM - INFO - jkt48_186 downloaded successfully
+12/24/2023 06:15:20 PM - INFO - jkt48_187 is being downloaded
+12/24/2023 06:15:20 PM - INFO - jkt48_187 downloaded successfully
+12/24/2023 06:15:20 PM - INFO - jkt48_188 is being downloaded
+12/24/2023 06:15:21 PM - INFO - jkt48_188 downloaded successfully
+12/24/2023 06:15:21 PM - INFO - jkt48_189 is being downloaded
+12/24/2023 06:15:21 PM - INFO - jkt48_189 downloaded successfully
+12/24/2023 06:15:21 PM - INFO - jkt48_190 is being downloaded
+12/24/2023 06:15:22 PM - INFO - jkt48_190 downloaded successfully
+12/24/2023 06:15:22 PM - INFO - jkt48_191 is being downloaded
+12/24/2023 06:15:22 PM - INFO - jkt48_191 downloaded successfully
+12/24/2023 06:15:22 PM - INFO - jkt48_192 is being downloaded
+12/24/2023 06:15:23 PM - INFO - jkt48_192 downloaded successfully
+12/24/2023 06:15:23 PM - INFO - jkt48_193 is being downloaded
+12/24/2023 06:15:24 PM - INFO - jkt48_193 downloaded successfully
+12/24/2023 06:15:24 PM - INFO - jkt48_194 is being downloaded
+12/24/2023 06:15:25 PM - INFO - jkt48_194 downloaded successfully
+12/24/2023 06:15:25 PM - INFO - jkt48_195 is being downloaded
+12/24/2023 06:15:25 PM - INFO - jkt48_195 downloaded successfully
+12/24/2023 06:15:25 PM - INFO - jkt48_196 is being downloaded
+12/24/2023 06:15:26 PM - INFO - jkt48_196 downloaded successfully
+12/24/2023 06:15:26 PM - INFO - jkt48_197 is being downloaded
+12/24/2023 06:15:26 PM - INFO - jkt48_197 downloaded successfully
+12/24/2023 06:15:26 PM - INFO - jkt48_198 is being downloaded
+12/24/2023 06:15:27 PM - INFO - jkt48_198 downloaded successfully
+12/24/2023 06:15:27 PM - INFO - jkt48_199 is being downloaded
+12/24/2023 06:15:28 PM - INFO - jkt48_199 downloaded successfully
+12/24/2023 06:15:28 PM - INFO - jkt48_200 is being downloaded
+12/24/2023 06:15:29 PM - INFO - jkt48_200 downloaded successfully
+12/24/2023 06:15:29 PM - INFO - jkt48_201 is being downloaded
+12/24/2023 06:15:40 PM - INFO - jkt48_201 downloaded successfully
+12/24/2023 06:15:40 PM - INFO - jkt48_202 is being downloaded
+12/24/2023 06:15:41 PM - INFO - jkt48_202 downloaded successfully
+12/24/2023 06:15:41 PM - INFO - jkt48_203 is being downloaded
+12/24/2023 06:15:42 PM - INFO - jkt48_203 downloaded successfully
+12/24/2023 06:15:42 PM - INFO - jkt48_204 is being downloaded
+12/24/2023 06:15:42 PM - INFO - jkt48_204 downloaded successfully
+12/24/2023 06:15:42 PM - INFO - jkt48_205 is being downloaded
+12/24/2023 06:15:43 PM - INFO - jkt48_205 downloaded successfully
+12/24/2023 06:15:43 PM - INFO - jkt48_206 is being downloaded
+12/24/2023 06:15:44 PM - INFO - jkt48_206 downloaded successfully
+12/24/2023 06:15:44 PM - INFO - jkt48_207 is being downloaded
+12/24/2023 06:15:45 PM - INFO - jkt48_207 downloaded successfully
+12/24/2023 06:15:45 PM - INFO - jkt48_208 is being downloaded
+12/24/2023 06:15:46 PM - INFO - jkt48_208 downloaded successfully
+12/24/2023 06:15:46 PM - INFO - jkt48_209 is being downloaded
+12/24/2023 06:15:46 PM - INFO - jkt48_209 downloaded successfully
+12/24/2023 06:15:46 PM - INFO - jkt48_210 is being downloaded
+12/24/2023 06:15:47 PM - INFO - jkt48_210 downloaded successfully
+12/24/2023 06:15:47 PM - INFO - jkt48_211 is being downloaded
+12/24/2023 06:15:52 PM - INFO - jkt48_211 downloaded successfully
+12/24/2023 06:15:52 PM - INFO - jkt48_212 is being downloaded
+12/24/2023 06:15:53 PM - INFO - jkt48_212 downloaded successfully
+12/24/2023 06:15:53 PM - INFO - jkt48_213 is being downloaded
+12/24/2023 06:15:54 PM - INFO - jkt48_213 downloaded successfully
+12/24/2023 06:15:54 PM - INFO - jkt48_214 is being downloaded
+12/24/2023 06:15:54 PM - INFO - jkt48_214 downloaded successfully
+12/24/2023 06:15:54 PM - INFO - jkt48_215 is being downloaded
+12/24/2023 06:15:55 PM - INFO - jkt48_215 downloaded successfully
+12/24/2023 06:15:55 PM - INFO - jkt48_216 is being downloaded
+12/24/2023 06:15:55 PM - INFO - jkt48_216 downloaded successfully
+12/24/2023 06:15:55 PM - INFO - jkt48_217 is being downloaded
+12/24/2023 06:15:57 PM - INFO - jkt48_217 downloaded successfully
+12/24/2023 06:15:57 PM - INFO - jkt48_218 is being downloaded
+12/24/2023 06:15:57 PM - INFO - jkt48_218 downloaded successfully
+12/24/2023 06:15:57 PM - INFO - jkt48_219 is being downloaded
+12/24/2023 06:15:58 PM - INFO - jkt48_219 downloaded successfully
+12/24/2023 06:15:58 PM - INFO - jkt48_220 is being downloaded
+12/24/2023 06:15:59 PM - INFO - jkt48_220 downloaded successfully
+12/24/2023 06:15:59 PM - INFO - jkt48_221 is being downloaded
+12/24/2023 06:16:00 PM - INFO - jkt48_221 downloaded successfully
+12/24/2023 06:16:00 PM - INFO - jkt48_222 is being downloaded
+12/24/2023 06:16:00 PM - INFO - jkt48_222 downloaded successfully
+12/24/2023 06:16:00 PM - INFO - jkt48_223 is being downloaded
+12/24/2023 06:16:01 PM - INFO - jkt48_223 downloaded successfully
+12/24/2023 06:16:01 PM - INFO - jkt48_224 is being downloaded
+12/24/2023 06:16:01 PM - INFO - jkt48_224 downloaded successfully
+12/24/2023 06:16:01 PM - INFO - jkt48_225 is being downloaded
+12/24/2023 06:16:02 PM - INFO - jkt48_225 downloaded successfully
+12/24/2023 06:16:02 PM - INFO - jkt48_226 is being downloaded
+12/24/2023 06:16:02 PM - INFO - jkt48_226 downloaded successfully
+12/24/2023 06:16:02 PM - INFO - jkt48_227 is being downloaded
+12/24/2023 06:16:03 PM - INFO - jkt48_227 downloaded successfully
+12/24/2023 06:16:03 PM - INFO - jkt48_228 is being downloaded
+12/24/2023 06:16:04 PM - INFO - jkt48_228 downloaded successfully
+12/24/2023 06:16:04 PM - INFO - jkt48_229 is being downloaded
+12/24/2023 06:16:04 PM - INFO - jkt48_229 downloaded successfully
+12/24/2023 06:16:04 PM - INFO - jkt48_230 is being downloaded
+12/24/2023 06:16:05 PM - INFO - jkt48_230 downloaded successfully
+12/24/2023 06:16:05 PM - INFO - jkt48_231 is being downloaded
+12/24/2023 06:16:05 PM - INFO - jkt48_231 downloaded successfully
+12/24/2023 06:16:05 PM - INFO - jkt48_232 is being downloaded
+12/24/2023 06:16:06 PM - INFO - jkt48_232 downloaded successfully
+12/24/2023 06:16:06 PM - INFO - jkt48_233 is being downloaded
+12/24/2023 06:16:07 PM - INFO - jkt48_233 downloaded successfully
+12/24/2023 06:16:07 PM - INFO - jkt48_234 is being downloaded
+12/24/2023 06:16:07 PM - INFO - jkt48_234 downloaded successfully
+12/24/2023 06:16:07 PM - INFO - jkt48_235 is being downloaded
+12/24/2023 06:16:08 PM - INFO - jkt48_235 downloaded successfully
+12/24/2023 06:16:08 PM - INFO - jkt48_236 is being downloaded
+12/24/2023 06:16:09 PM - INFO - jkt48_236 downloaded successfully
+12/24/2023 06:16:09 PM - INFO - jkt48_237 is being downloaded
+12/24/2023 06:16:10 PM - INFO - jkt48_237 downloaded successfully
+12/24/2023 06:16:10 PM - INFO - jkt48_238 is being downloaded
+12/24/2023 06:16:11 PM - INFO - jkt48_238 downloaded successfully
+12/24/2023 06:16:11 PM - INFO - jkt48_239 is being downloaded
+12/24/2023 06:16:12 PM - INFO - jkt48_239 downloaded successfully
+12/24/2023 06:16:12 PM - INFO - jkt48_240 is being downloaded
+12/24/2023 06:16:12 PM - INFO - jkt48_240 downloaded successfully
+12/24/2023 06:16:12 PM - INFO - perform a search by name shani jkt48
+12/24/2023 06:16:12 PM - DEBUG - Starting new HTTPS connection (1): id.pinterest.com:443
+12/24/2023 06:16:24 PM - DEBUG - https://id.pinterest.com:443 "GET /resource/BaseSearchResource/get/?source_url=/search/pins/?q=shani%20jkt48&rs=typed&data=%7B%22options%22:%20%7B%22article%22:%20%22%22,%20%22appliedProductFilters%22:%20%22---%22,%20%22price_max%22:%20%22null%22,%20%22price_min%22:%20%22null%22,%20%22scope%22:%20%22pins%22,%20%22auto_correction_disabled%22:%20%22%22,%20%22top_pin_id%22:%20%22%22,%20%22filters%22:%20%22%22,%20%22query%22:%20%22shani%20jkt48%22,%20%22page_size%22:%20250%7D%7D HTTP/1.1" 200 None
+12/24/2023 06:16:24 PM - INFO - shani jkt48 query was found
+12/24/2023 06:16:24 PM - INFO - status 200
+12/24/2023 06:16:24 PM - INFO - data extracted successfully
+12/24/2023 06:16:24 PM - INFO - create folder data/shani_jkt48
+12/24/2023 06:16:24 PM - INFO - create folder data/shani_jkt48/image
+12/24/2023 06:16:24 PM - INFO - create folder data/shani_jkt48/json
+12/24/2023 06:16:24 PM - INFO - shani jkt48_0 is being downloaded
+12/24/2023 06:16:24 PM - INFO - shani jkt48_0 downloaded successfully
+12/24/2023 06:16:24 PM - INFO - shani jkt48_1 is being downloaded
+12/24/2023 06:16:24 PM - INFO - shani jkt48_1 downloaded successfully
+12/24/2023 06:16:24 PM - INFO - shani jkt48_2 is being downloaded
+12/24/2023 06:16:25 PM - INFO - shani jkt48_2 downloaded successfully
+12/24/2023 06:16:25 PM - INFO - shani jkt48_3 is being downloaded
+12/24/2023 06:16:26 PM - INFO - shani jkt48_3 downloaded successfully
+12/24/2023 06:16:26 PM - INFO - shani jkt48_4 is being downloaded
+12/24/2023 06:16:39 PM - INFO - shani jkt48_4 downloaded successfully
+12/24/2023 06:16:39 PM - INFO - shani jkt48_5 is being downloaded
+12/24/2023 06:16:39 PM - INFO - shani jkt48_5 downloaded successfully
+12/24/2023 06:16:39 PM - INFO - shani jkt48_6 is being downloaded
+12/24/2023 06:16:40 PM - INFO - shani jkt48_6 downloaded successfully
+12/24/2023 06:16:40 PM - INFO - shani jkt48_7 is being downloaded
+12/24/2023 06:16:40 PM - INFO - shani jkt48_7 downloaded successfully
+12/24/2023 06:16:40 PM - INFO - shani jkt48_8 is being downloaded
+12/24/2023 06:16:41 PM - INFO - shani jkt48_8 downloaded successfully
+12/24/2023 06:16:41 PM - INFO - shani jkt48_9 is being downloaded
+12/24/2023 06:16:41 PM - INFO - shani jkt48_9 downloaded successfully
+12/24/2023 06:16:41 PM - INFO - shani jkt48_10 is being downloaded
+12/24/2023 06:16:42 PM - INFO - shani jkt48_10 downloaded successfully
+12/24/2023 06:16:42 PM - INFO - shani jkt48_11 is being downloaded
+12/24/2023 06:16:42 PM - INFO - shani jkt48_11 downloaded successfully
+12/24/2023 06:16:42 PM - INFO - shani jkt48_12 is being downloaded
+12/24/2023 06:16:43 PM - INFO - shani jkt48_12 downloaded successfully
+12/24/2023 06:16:43 PM - INFO - shani jkt48_13 is being downloaded
+12/24/2023 06:16:44 PM - INFO - shani jkt48_13 downloaded successfully
+12/24/2023 06:16:44 PM - INFO - shani jkt48_14 is being downloaded
+12/24/2023 06:16:44 PM - INFO - shani jkt48_14 downloaded successfully
+12/24/2023 06:16:44 PM - INFO - shani jkt48_15 is being downloaded
+12/24/2023 06:16:45 PM - INFO - shani jkt48_15 downloaded successfully
+12/24/2023 06:16:45 PM - INFO - shani jkt48_16 is being downloaded
+12/24/2023 06:16:46 PM - INFO - shani jkt48_16 downloaded successfully
+12/24/2023 06:16:46 PM - INFO - shani jkt48_17 is being downloaded
+12/24/2023 06:16:47 PM - INFO - shani jkt48_17 downloaded successfully
+12/24/2023 06:16:47 PM - INFO - shani jkt48_18 is being downloaded
+12/24/2023 06:16:47 PM - INFO - shani jkt48_18 downloaded successfully
+12/24/2023 06:16:47 PM - INFO - shani jkt48_19 is being downloaded
+12/24/2023 06:16:48 PM - INFO - shani jkt48_19 downloaded successfully
+12/24/2023 06:16:48 PM - INFO - shani jkt48_20 is being downloaded
+12/24/2023 06:16:49 PM - INFO - shani jkt48_20 downloaded successfully
+12/24/2023 06:16:49 PM - INFO - shani jkt48_21 is being downloaded
+12/24/2023 06:16:50 PM - INFO - shani jkt48_21 downloaded successfully
+12/24/2023 06:16:50 PM - INFO - shani jkt48_22 is being downloaded
+12/24/2023 06:16:50 PM - INFO - shani jkt48_22 downloaded successfully
+12/24/2023 06:16:50 PM - INFO - shani jkt48_23 is being downloaded
+12/24/2023 06:16:51 PM - INFO - shani jkt48_23 downloaded successfully
+12/24/2023 06:16:51 PM - INFO - shani jkt48_24 is being downloaded
+12/24/2023 06:16:52 PM - INFO - shani jkt48_24 downloaded successfully
+12/24/2023 06:16:52 PM - INFO - shani jkt48_25 is being downloaded
+12/24/2023 06:16:52 PM - INFO - shani jkt48_25 downloaded successfully
+12/24/2023 06:16:52 PM - INFO - shani jkt48_26 is being downloaded
+12/24/2023 06:16:53 PM - INFO - shani jkt48_26 downloaded successfully
+12/24/2023 06:16:53 PM - INFO - shani jkt48_27 is being downloaded
+12/24/2023 06:16:53 PM - INFO - shani jkt48_27 downloaded successfully
+12/24/2023 06:16:53 PM - INFO - shani jkt48_28 is being downloaded
+12/24/2023 06:16:54 PM - INFO - shani jkt48_28 downloaded successfully
+12/24/2023 06:16:54 PM - INFO - shani jkt48_29 is being downloaded
+12/24/2023 06:16:55 PM - INFO - shani jkt48_29 downloaded successfully
+12/24/2023 06:16:55 PM - INFO - shani jkt48_30 is being downloaded
+12/24/2023 06:16:56 PM - INFO - shani jkt48_30 downloaded successfully
+12/24/2023 06:16:56 PM - INFO - shani jkt48_31 is being downloaded
+12/24/2023 06:16:56 PM - INFO - shani jkt48_31 downloaded successfully
+12/24/2023 06:16:56 PM - INFO - shani jkt48_32 is being downloaded
+12/24/2023 06:16:57 PM - INFO - shani jkt48_32 downloaded successfully
+12/24/2023 06:16:57 PM - INFO - shani jkt48_33 is being downloaded
+12/24/2023 06:16:58 PM - INFO - shani jkt48_33 downloaded successfully
+12/24/2023 06:16:58 PM - INFO - shani jkt48_34 is being downloaded
+12/24/2023 06:16:59 PM - INFO - shani jkt48_34 downloaded successfully
+12/24/2023 06:16:59 PM - INFO - shani jkt48_35 is being downloaded
+12/24/2023 06:17:03 PM - INFO - shani jkt48_35 downloaded successfully
+12/24/2023 06:17:03 PM - INFO - shani jkt48_36 is being downloaded
+12/24/2023 06:17:04 PM - INFO - shani jkt48_36 downloaded successfully
+12/24/2023 06:17:04 PM - INFO - shani jkt48_37 is being downloaded
+12/24/2023 06:17:05 PM - INFO - shani jkt48_37 downloaded successfully
+12/24/2023 06:17:05 PM - INFO - shani jkt48_38 is being downloaded
+12/24/2023 06:17:08 PM - INFO - shani jkt48_38 downloaded successfully
+12/24/2023 06:17:08 PM - INFO - shani jkt48_39 is being downloaded
+12/24/2023 06:17:08 PM - INFO - shani jkt48_39 downloaded successfully
+12/24/2023 06:17:08 PM - INFO - shani jkt48_40 is being downloaded
+12/24/2023 06:17:09 PM - INFO - shani jkt48_40 downloaded successfully
+12/24/2023 06:17:09 PM - INFO - shani jkt48_41 is being downloaded
+12/24/2023 06:17:10 PM - INFO - shani jkt48_41 downloaded successfully
+12/24/2023 06:17:10 PM - INFO - shani jkt48_42 is being downloaded
+12/24/2023 06:17:10 PM - INFO - shani jkt48_42 downloaded successfully
+12/24/2023 06:17:10 PM - INFO - shani jkt48_43 is being downloaded
+12/24/2023 06:17:11 PM - INFO - shani jkt48_43 downloaded successfully
+12/24/2023 06:17:11 PM - INFO - shani jkt48_44 is being downloaded
+12/24/2023 06:17:12 PM - INFO - shani jkt48_44 downloaded successfully
+12/24/2023 06:17:12 PM - INFO - shani jkt48_45 is being downloaded
+12/24/2023 06:17:13 PM - INFO - shani jkt48_45 downloaded successfully
+12/24/2023 06:17:13 PM - INFO - shani jkt48_46 is being downloaded
+12/24/2023 06:17:13 PM - INFO - shani jkt48_46 downloaded successfully
+12/24/2023 06:17:13 PM - INFO - shani jkt48_47 is being downloaded
+12/24/2023 06:17:14 PM - INFO - shani jkt48_47 downloaded successfully
+12/24/2023 06:17:14 PM - INFO - shani jkt48_48 is being downloaded
+12/24/2023 06:17:15 PM - INFO - shani jkt48_48 downloaded successfully
+12/24/2023 06:17:15 PM - INFO - shani jkt48_49 is being downloaded
+12/24/2023 06:17:15 PM - INFO - shani jkt48_49 downloaded successfully
+12/24/2023 06:17:15 PM - INFO - shani jkt48_50 is being downloaded
+12/24/2023 06:17:16 PM - INFO - shani jkt48_50 downloaded successfully
+12/24/2023 06:17:16 PM - INFO - shani jkt48_51 is being downloaded
+12/24/2023 06:17:17 PM - INFO - shani jkt48_51 downloaded successfully
+12/24/2023 06:17:17 PM - INFO - shani jkt48_52 is being downloaded
+12/24/2023 06:17:18 PM - INFO - shani jkt48_52 downloaded successfully
+12/24/2023 06:17:18 PM - INFO - shani jkt48_53 is being downloaded
+12/24/2023 06:17:18 PM - INFO - shani jkt48_53 downloaded successfully
+12/24/2023 06:17:18 PM - INFO - shani jkt48_54 is being downloaded
+12/24/2023 06:17:19 PM - INFO - shani jkt48_54 downloaded successfully
+12/24/2023 06:17:19 PM - INFO - shani jkt48_55 is being downloaded
+12/24/2023 06:17:20 PM - INFO - shani jkt48_55 downloaded successfully
+12/24/2023 06:17:20 PM - INFO - shani jkt48_56 is being downloaded
+12/24/2023 06:17:20 PM - INFO - shani jkt48_56 downloaded successfully
+12/24/2023 06:17:20 PM - INFO - shani jkt48_57 is being downloaded
+12/24/2023 06:17:21 PM - INFO - shani jkt48_57 downloaded successfully
+12/24/2023 06:17:21 PM - INFO - shani jkt48_58 is being downloaded
+12/24/2023 06:17:21 PM - INFO - shani jkt48_58 downloaded successfully
+12/24/2023 06:17:21 PM - INFO - shani jkt48_59 is being downloaded
+12/24/2023 06:17:22 PM - INFO - shani jkt48_59 downloaded successfully
+12/24/2023 06:17:22 PM - INFO - shani jkt48_60 is being downloaded
+12/24/2023 06:17:23 PM - INFO - shani jkt48_60 downloaded successfully
+12/24/2023 06:17:23 PM - INFO - shani jkt48_61 is being downloaded
+12/24/2023 06:17:23 PM - INFO - shani jkt48_61 downloaded successfully
+12/24/2023 06:17:23 PM - INFO - shani jkt48_62 is being downloaded
+12/24/2023 06:17:24 PM - INFO - shani jkt48_62 downloaded successfully
+12/24/2023 06:17:24 PM - INFO - shani jkt48_63 is being downloaded
+12/24/2023 06:17:25 PM - INFO - shani jkt48_63 downloaded successfully
+12/24/2023 06:17:25 PM - INFO - shani jkt48_64 is being downloaded
+12/24/2023 06:17:26 PM - INFO - shani jkt48_64 downloaded successfully
+12/24/2023 06:17:26 PM - INFO - shani jkt48_65 is being downloaded
+12/24/2023 06:17:26 PM - INFO - shani jkt48_65 downloaded successfully
+12/24/2023 06:17:26 PM - INFO - shani jkt48_66 is being downloaded
+12/24/2023 06:17:27 PM - INFO - shani jkt48_66 downloaded successfully
+12/24/2023 06:17:27 PM - INFO - shani jkt48_67 is being downloaded
+12/24/2023 06:17:28 PM - INFO - shani jkt48_67 downloaded successfully
+12/24/2023 06:17:28 PM - INFO - shani jkt48_68 is being downloaded
+12/24/2023 06:17:29 PM - INFO - shani jkt48_68 downloaded successfully
+12/24/2023 06:17:29 PM - INFO - shani jkt48_69 is being downloaded
+12/24/2023 06:17:30 PM - INFO - shani jkt48_69 downloaded successfully
+12/24/2023 06:17:30 PM - INFO - shani jkt48_70 is being downloaded
+12/24/2023 06:17:31 PM - INFO - shani jkt48_70 downloaded successfully
+12/24/2023 06:17:31 PM - INFO - shani jkt48_71 is being downloaded
+12/24/2023 06:17:32 PM - INFO - shani jkt48_71 downloaded successfully
+12/24/2023 06:17:32 PM - INFO - shani jkt48_72 is being downloaded
+12/24/2023 06:17:33 PM - INFO - shani jkt48_72 downloaded successfully
+12/24/2023 06:17:33 PM - INFO - shani jkt48_73 is being downloaded
+12/24/2023 06:17:34 PM - INFO - shani jkt48_73 downloaded successfully
+12/24/2023 06:17:34 PM - INFO - shani jkt48_74 is being downloaded
+12/24/2023 06:17:34 PM - INFO - shani jkt48_74 downloaded successfully
+12/24/2023 06:17:34 PM - INFO - shani jkt48_75 is being downloaded
+12/24/2023 06:17:34 PM - INFO - shani jkt48_75 downloaded successfully
+12/24/2023 06:17:34 PM - INFO - shani jkt48_76 is being downloaded
+12/24/2023 06:17:47 PM - INFO - shani jkt48_76 downloaded successfully
+12/24/2023 06:17:47 PM - INFO - shani jkt48_77 is being downloaded
+12/24/2023 06:17:51 PM - INFO - shani jkt48_77 downloaded successfully
+12/24/2023 06:17:51 PM - INFO - shani jkt48_78 is being downloaded
+12/24/2023 06:17:51 PM - INFO - shani jkt48_78 downloaded successfully
+12/24/2023 06:17:51 PM - INFO - shani jkt48_79 is being downloaded
+12/24/2023 06:17:52 PM - INFO - shani jkt48_79 downloaded successfully
+12/24/2023 06:17:52 PM - INFO - shani jkt48_80 is being downloaded
+12/24/2023 06:17:52 PM - INFO - shani jkt48_80 downloaded successfully
+12/24/2023 06:17:52 PM - INFO - shani jkt48_81 is being downloaded
+12/24/2023 06:17:53 PM - INFO - shani jkt48_81 downloaded successfully
+12/24/2023 06:17:53 PM - INFO - shani jkt48_82 is being downloaded
+12/24/2023 06:17:53 PM - INFO - shani jkt48_82 downloaded successfully
+12/24/2023 06:17:53 PM - INFO - shani jkt48_83 is being downloaded
+12/24/2023 06:17:53 PM - INFO - shani jkt48_83 downloaded successfully
+12/24/2023 06:17:53 PM - INFO - shani jkt48_84 is being downloaded
+12/24/2023 06:17:53 PM - INFO - shani jkt48_84 downloaded successfully
+12/24/2023 06:17:53 PM - INFO - shani jkt48_85 is being downloaded
+12/24/2023 06:17:54 PM - INFO - shani jkt48_85 downloaded successfully
+12/24/2023 06:17:54 PM - INFO - shani jkt48_86 is being downloaded
+12/24/2023 06:17:54 PM - INFO - shani jkt48_86 downloaded successfully
+12/24/2023 06:17:54 PM - INFO - shani jkt48_87 is being downloaded
+12/24/2023 06:17:55 PM - INFO - shani jkt48_87 downloaded successfully
+12/24/2023 06:17:55 PM - INFO - shani jkt48_88 is being downloaded
+12/24/2023 06:17:55 PM - INFO - shani jkt48_88 downloaded successfully
+12/24/2023 06:17:55 PM - INFO - shani jkt48_89 is being downloaded
+12/24/2023 06:17:55 PM - INFO - shani jkt48_89 downloaded successfully
+12/24/2023 06:17:55 PM - INFO - shani jkt48_90 is being downloaded
+12/24/2023 06:17:56 PM - INFO - shani jkt48_90 downloaded successfully
+12/24/2023 06:17:56 PM - INFO - shani jkt48_91 is being downloaded
+12/24/2023 06:17:57 PM - INFO - shani jkt48_91 downloaded successfully
+12/24/2023 06:17:57 PM - INFO - shani jkt48_92 is being downloaded
+12/24/2023 06:17:57 PM - INFO - shani jkt48_92 downloaded successfully
+12/24/2023 06:17:57 PM - INFO - shani jkt48_93 is being downloaded
+12/24/2023 06:17:58 PM - INFO - shani jkt48_93 downloaded successfully
+12/24/2023 06:17:58 PM - INFO - shani jkt48_94 is being downloaded
+12/24/2023 06:17:58 PM - INFO - shani jkt48_94 downloaded successfully
+12/24/2023 06:17:58 PM - INFO - shani jkt48_95 is being downloaded
+12/24/2023 06:17:59 PM - INFO - shani jkt48_95 downloaded successfully
+12/24/2023 06:17:59 PM - INFO - shani jkt48_96 is being downloaded
+12/24/2023 06:18:00 PM - INFO - shani jkt48_96 downloaded successfully
+12/24/2023 06:18:00 PM - INFO - shani jkt48_97 is being downloaded
+12/24/2023 06:18:01 PM - INFO - shani jkt48_97 downloaded successfully
+12/24/2023 06:18:01 PM - INFO - shani jkt48_98 is being downloaded
+12/24/2023 06:18:01 PM - INFO - shani jkt48_98 downloaded successfully
+12/24/2023 06:18:01 PM - INFO - shani jkt48_99 is being downloaded
+12/24/2023 06:18:02 PM - INFO - shani jkt48_99 downloaded successfully
+12/24/2023 06:18:02 PM - INFO - shani jkt48_100 is being downloaded
+12/24/2023 06:18:03 PM - INFO - shani jkt48_100 downloaded successfully
+12/24/2023 06:18:03 PM - INFO - shani jkt48_101 is being downloaded
+12/24/2023 06:18:03 PM - INFO - shani jkt48_101 downloaded successfully
+12/24/2023 06:18:03 PM - INFO - shani jkt48_102 is being downloaded
+12/24/2023 06:18:04 PM - INFO - shani jkt48_102 downloaded successfully
+12/24/2023 06:18:04 PM - INFO - shani jkt48_103 is being downloaded
+12/24/2023 06:18:04 PM - INFO - shani jkt48_103 downloaded successfully
+12/24/2023 06:18:04 PM - INFO - shani jkt48_104 is being downloaded
+12/24/2023 06:18:05 PM - INFO - shani jkt48_104 downloaded successfully
+12/24/2023 06:18:05 PM - INFO - shani jkt48_105 is being downloaded
+12/24/2023 06:18:05 PM - INFO - shani jkt48_105 downloaded successfully
+12/24/2023 06:18:05 PM - INFO - shani jkt48_106 is being downloaded
+12/24/2023 06:18:05 PM - INFO - shani jkt48_106 downloaded successfully
+12/24/2023 06:18:05 PM - INFO - shani jkt48_107 is being downloaded
+12/24/2023 06:18:06 PM - INFO - shani jkt48_107 downloaded successfully
+12/24/2023 06:18:06 PM - INFO - shani jkt48_108 is being downloaded
+12/24/2023 06:18:07 PM - INFO - shani jkt48_108 downloaded successfully
+12/24/2023 06:18:07 PM - INFO - shani jkt48_109 is being downloaded
+12/24/2023 06:18:07 PM - INFO - shani jkt48_109 downloaded successfully
+12/24/2023 06:18:07 PM - INFO - shani jkt48_110 is being downloaded
+12/24/2023 06:18:08 PM - INFO - shani jkt48_110 downloaded successfully
+12/24/2023 06:18:08 PM - INFO - shani jkt48_111 is being downloaded
+12/24/2023 06:18:08 PM - INFO - shani jkt48_111 downloaded successfully
+12/24/2023 06:18:08 PM - INFO - shani jkt48_112 is being downloaded
+12/24/2023 06:18:08 PM - INFO - shani jkt48_112 downloaded successfully
+12/24/2023 06:18:09 PM - INFO - shani jkt48_113 is being downloaded
+12/24/2023 06:18:09 PM - INFO - shani jkt48_113 downloaded successfully
+12/24/2023 06:18:09 PM - INFO - shani jkt48_114 is being downloaded
+12/24/2023 06:18:09 PM - INFO - shani jkt48_114 downloaded successfully
+12/24/2023 06:18:09 PM - INFO - shani jkt48_115 is being downloaded
+12/24/2023 06:18:10 PM - INFO - shani jkt48_115 downloaded successfully
+12/24/2023 06:18:10 PM - INFO - shani jkt48_116 is being downloaded
+12/24/2023 06:18:11 PM - INFO - shani jkt48_116 downloaded successfully
+12/24/2023 06:18:11 PM - INFO - shani jkt48_117 is being downloaded
+12/24/2023 06:18:12 PM - INFO - shani jkt48_117 downloaded successfully
+12/24/2023 06:18:12 PM - INFO - shani jkt48_118 is being downloaded
+12/24/2023 06:18:12 PM - INFO - shani jkt48_118 downloaded successfully
+12/24/2023 06:18:13 PM - INFO - shani jkt48_119 is being downloaded
+12/24/2023 06:18:14 PM - INFO - shani jkt48_119 downloaded successfully
+12/24/2023 06:18:14 PM - INFO - shani jkt48_120 is being downloaded
+12/24/2023 06:18:14 PM - INFO - shani jkt48_120 downloaded successfully
+12/24/2023 06:18:14 PM - INFO - shani jkt48_121 is being downloaded
+12/24/2023 06:18:14 PM - INFO - shani jkt48_121 downloaded successfully
+12/24/2023 06:18:14 PM - INFO - shani jkt48_122 is being downloaded
+12/24/2023 06:18:15 PM - INFO - shani jkt48_122 downloaded successfully
+12/24/2023 06:18:15 PM - INFO - shani jkt48_123 is being downloaded
+12/24/2023 06:18:15 PM - INFO - shani jkt48_123 downloaded successfully
+12/24/2023 06:18:15 PM - INFO - shani jkt48_124 is being downloaded
+12/24/2023 06:18:16 PM - INFO - shani jkt48_124 downloaded successfully
+12/24/2023 06:18:16 PM - INFO - shani jkt48_125 is being downloaded
+12/24/2023 06:18:16 PM - INFO - shani jkt48_125 downloaded successfully
+12/24/2023 06:18:16 PM - INFO - shani jkt48_126 is being downloaded
+12/24/2023 06:18:17 PM - INFO - shani jkt48_126 downloaded successfully
+12/24/2023 06:18:17 PM - INFO - shani jkt48_127 is being downloaded
+12/24/2023 06:18:18 PM - INFO - shani jkt48_127 downloaded successfully
+12/24/2023 06:18:18 PM - INFO - shani jkt48_128 is being downloaded
+12/24/2023 06:18:18 PM - INFO - shani jkt48_128 downloaded successfully
+12/24/2023 06:18:18 PM - INFO - shani jkt48_129 is being downloaded
+12/24/2023 06:18:18 PM - INFO - shani jkt48_129 downloaded successfully
+12/24/2023 06:18:18 PM - INFO - shani jkt48_130 is being downloaded
+12/24/2023 06:18:19 PM - INFO - shani jkt48_130 downloaded successfully
+12/24/2023 06:18:19 PM - INFO - shani jkt48_131 is being downloaded
+12/24/2023 06:18:20 PM - INFO - shani jkt48_131 downloaded successfully
+12/24/2023 06:18:20 PM - INFO - shani jkt48_132 is being downloaded
+12/24/2023 06:18:21 PM - INFO - shani jkt48_132 downloaded successfully
+12/24/2023 06:18:21 PM - INFO - shani jkt48_133 is being downloaded
+12/24/2023 06:18:21 PM - INFO - shani jkt48_133 downloaded successfully
+12/24/2023 06:18:21 PM - INFO - shani jkt48_134 is being downloaded
+12/24/2023 06:18:22 PM - INFO - shani jkt48_134 downloaded successfully
+12/24/2023 06:18:22 PM - INFO - shani jkt48_135 is being downloaded
+12/24/2023 06:18:22 PM - INFO - shani jkt48_135 downloaded successfully
+12/24/2023 06:18:22 PM - INFO - shani jkt48_136 is being downloaded
+12/24/2023 06:18:23 PM - INFO - shani jkt48_136 downloaded successfully
+12/24/2023 06:18:23 PM - INFO - shani jkt48_137 is being downloaded
+12/24/2023 06:18:23 PM - INFO - shani jkt48_137 downloaded successfully
+12/24/2023 06:18:23 PM - INFO - shani jkt48_138 is being downloaded
+12/24/2023 06:18:24 PM - INFO - shani jkt48_138 downloaded successfully
+12/24/2023 06:18:24 PM - INFO - shani jkt48_139 is being downloaded
+12/24/2023 06:18:24 PM - INFO - shani jkt48_139 downloaded successfully
+12/24/2023 06:18:25 PM - INFO - shani jkt48_140 is being downloaded
+12/24/2023 06:18:25 PM - INFO - shani jkt48_140 downloaded successfully
+12/24/2023 06:18:25 PM - INFO - shani jkt48_141 is being downloaded
+12/24/2023 06:18:26 PM - INFO - shani jkt48_141 downloaded successfully
+12/24/2023 06:18:26 PM - INFO - shani jkt48_142 is being downloaded
+12/24/2023 06:18:26 PM - INFO - shani jkt48_142 downloaded successfully
+12/24/2023 06:18:26 PM - INFO - shani jkt48_143 is being downloaded
+12/24/2023 06:18:28 PM - INFO - shani jkt48_143 downloaded successfully
+12/24/2023 06:18:28 PM - INFO - shani jkt48_144 is being downloaded
+12/24/2023 06:18:29 PM - INFO - shani jkt48_144 downloaded successfully
+12/24/2023 06:18:29 PM - INFO - shani jkt48_145 is being downloaded
+12/24/2023 06:18:30 PM - INFO - shani jkt48_145 downloaded successfully
+12/24/2023 06:18:30 PM - INFO - shani jkt48_146 is being downloaded
+12/24/2023 06:18:31 PM - INFO - shani jkt48_146 downloaded successfully
+12/24/2023 06:18:31 PM - INFO - shani jkt48_147 is being downloaded
+12/24/2023 06:18:32 PM - INFO - shani jkt48_147 downloaded successfully
+12/24/2023 06:18:32 PM - INFO - shani jkt48_148 is being downloaded
+12/24/2023 06:18:32 PM - INFO - shani jkt48_148 downloaded successfully
+12/24/2023 06:18:32 PM - INFO - shani jkt48_149 is being downloaded
+12/24/2023 06:18:33 PM - INFO - shani jkt48_149 downloaded successfully
+12/24/2023 06:18:33 PM - INFO - shani jkt48_150 is being downloaded
+12/24/2023 06:18:34 PM - INFO - shani jkt48_150 downloaded successfully
+12/24/2023 06:18:34 PM - INFO - shani jkt48_151 is being downloaded
+12/24/2023 06:18:34 PM - INFO - shani jkt48_151 downloaded successfully
+12/24/2023 06:18:34 PM - INFO - shani jkt48_152 is being downloaded
+12/24/2023 06:18:35 PM - INFO - shani jkt48_152 downloaded successfully
+12/24/2023 06:18:35 PM - INFO - shani jkt48_153 is being downloaded
+12/24/2023 06:18:36 PM - INFO - shani jkt48_153 downloaded successfully
+12/24/2023 06:18:36 PM - INFO - shani jkt48_154 is being downloaded
+12/24/2023 06:18:36 PM - INFO - shani jkt48_154 downloaded successfully
+12/24/2023 06:18:36 PM - INFO - shani jkt48_155 is being downloaded
+12/24/2023 06:18:38 PM - INFO - shani jkt48_155 downloaded successfully
+12/24/2023 06:18:38 PM - INFO - shani jkt48_156 is being downloaded
+12/24/2023 06:18:39 PM - INFO - shani jkt48_156 downloaded successfully
+12/24/2023 06:18:39 PM - INFO - shani jkt48_157 is being downloaded
+12/24/2023 06:18:39 PM - INFO - shani jkt48_157 downloaded successfully
+12/24/2023 06:18:39 PM - INFO - shani jkt48_158 is being downloaded
+12/24/2023 06:18:42 PM - INFO - shani jkt48_158 downloaded successfully
+12/24/2023 06:18:42 PM - INFO - shani jkt48_159 is being downloaded
+12/24/2023 06:18:42 PM - INFO - shani jkt48_159 downloaded successfully
+12/24/2023 06:18:42 PM - INFO - shani jkt48_160 is being downloaded
+12/24/2023 06:18:43 PM - INFO - shani jkt48_160 downloaded successfully
+12/24/2023 06:18:43 PM - INFO - shani jkt48_161 is being downloaded
+12/24/2023 06:18:44 PM - INFO - shani jkt48_161 downloaded successfully
+12/24/2023 06:18:44 PM - INFO - shani jkt48_162 is being downloaded
+12/24/2023 06:18:45 PM - INFO - shani jkt48_162 downloaded successfully
+12/24/2023 06:18:45 PM - INFO - shani jkt48_163 is being downloaded
+12/24/2023 06:18:46 PM - INFO - shani jkt48_163 downloaded successfully
+12/24/2023 06:18:46 PM - INFO - shani jkt48_164 is being downloaded
+12/24/2023 06:18:48 PM - INFO - shani jkt48_164 downloaded successfully
+12/24/2023 06:18:48 PM - INFO - shani jkt48_165 is being downloaded
+12/24/2023 06:18:48 PM - INFO - shani jkt48_165 downloaded successfully
+12/24/2023 06:18:48 PM - INFO - shani jkt48_166 is being downloaded
+12/24/2023 06:18:49 PM - INFO - shani jkt48_166 downloaded successfully
+12/24/2023 06:18:49 PM - INFO - shani jkt48_167 is being downloaded
+12/24/2023 06:18:49 PM - INFO - shani jkt48_167 downloaded successfully
+12/24/2023 06:18:49 PM - INFO - shani jkt48_168 is being downloaded
+12/24/2023 06:18:50 PM - INFO - shani jkt48_168 downloaded successfully
+12/24/2023 06:18:50 PM - INFO - shani jkt48_169 is being downloaded
+12/24/2023 06:18:52 PM - INFO - shani jkt48_169 downloaded successfully
+12/24/2023 06:18:52 PM - INFO - shani jkt48_170 is being downloaded
+12/24/2023 06:18:52 PM - INFO - shani jkt48_170 downloaded successfully
+12/24/2023 06:18:52 PM - INFO - shani jkt48_171 is being downloaded
+12/24/2023 06:18:52 PM - INFO - shani jkt48_171 downloaded successfully
+12/24/2023 06:18:52 PM - INFO - shani jkt48_172 is being downloaded
+12/24/2023 06:18:53 PM - INFO - shani jkt48_172 downloaded successfully
+12/24/2023 06:18:53 PM - INFO - shani jkt48_173 is being downloaded
+12/24/2023 06:18:54 PM - INFO - shani jkt48_173 downloaded successfully
+12/24/2023 06:18:54 PM - INFO - shani jkt48_174 is being downloaded
+12/24/2023 06:18:54 PM - INFO - shani jkt48_174 downloaded successfully
+12/24/2023 06:18:54 PM - INFO - shani jkt48_175 is being downloaded
+12/24/2023 06:18:56 PM - INFO - shani jkt48_175 downloaded successfully
+12/24/2023 06:18:56 PM - INFO - shani jkt48_176 is being downloaded
+12/24/2023 06:18:57 PM - INFO - shani jkt48_176 downloaded successfully
+12/24/2023 06:18:57 PM - INFO - shani jkt48_177 is being downloaded
+12/24/2023 06:18:57 PM - INFO - shani jkt48_177 downloaded successfully
+12/24/2023 06:18:57 PM - INFO - shani jkt48_178 is being downloaded
+12/24/2023 06:18:58 PM - INFO - shani jkt48_178 downloaded successfully
+12/24/2023 06:18:58 PM - INFO - shani jkt48_179 is being downloaded
+12/24/2023 06:18:58 PM - INFO - shani jkt48_179 downloaded successfully
+12/24/2023 06:18:58 PM - INFO - shani jkt48_180 is being downloaded
+12/24/2023 06:18:59 PM - INFO - shani jkt48_180 downloaded successfully
+12/24/2023 06:18:59 PM - INFO - shani jkt48_181 is being downloaded
+12/24/2023 06:18:59 PM - INFO - shani jkt48_181 downloaded successfully
+12/24/2023 06:18:59 PM - INFO - shani jkt48_182 is being downloaded
+12/24/2023 06:19:00 PM - INFO - shani jkt48_182 downloaded successfully
+12/24/2023 06:19:00 PM - INFO - shani jkt48_183 is being downloaded
+12/24/2023 06:19:01 PM - INFO - shani jkt48_183 downloaded successfully
+12/24/2023 06:19:01 PM - INFO - shani jkt48_184 is being downloaded
+12/24/2023 06:19:01 PM - INFO - shani jkt48_184 downloaded successfully
+12/24/2023 06:19:01 PM - INFO - shani jkt48_185 is being downloaded
+12/24/2023 06:19:02 PM - INFO - shani jkt48_185 downloaded successfully
+12/24/2023 06:19:02 PM - INFO - shani jkt48_186 is being downloaded
+12/24/2023 06:19:02 PM - INFO - shani jkt48_186 downloaded successfully
+12/24/2023 06:19:02 PM - INFO - shani jkt48_187 is being downloaded
+12/24/2023 06:19:03 PM - INFO - shani jkt48_187 downloaded successfully
+12/24/2023 06:19:03 PM - INFO - shani jkt48_188 is being downloaded
+12/24/2023 06:19:04 PM - INFO - shani jkt48_188 downloaded successfully
+12/24/2023 06:19:04 PM - INFO - shani jkt48_189 is being downloaded
+12/24/2023 06:19:05 PM - INFO - shani jkt48_189 downloaded successfully
+12/24/2023 06:19:05 PM - INFO - shani jkt48_190 is being downloaded
+12/24/2023 06:19:06 PM - INFO - shani jkt48_190 downloaded successfully
+12/24/2023 06:19:06 PM - INFO - shani jkt48_191 is being downloaded
+12/24/2023 06:19:07 PM - INFO - shani jkt48_191 downloaded successfully
+12/24/2023 06:19:07 PM - INFO - shani jkt48_192 is being downloaded
+12/24/2023 06:19:08 PM - INFO - shani jkt48_192 downloaded successfully
+12/24/2023 06:19:08 PM - INFO - shani jkt48_193 is being downloaded
+12/24/2023 06:19:08 PM - INFO - shani jkt48_193 downloaded successfully
+12/24/2023 06:19:08 PM - INFO - shani jkt48_194 is being downloaded
+12/24/2023 06:19:08 PM - INFO - shani jkt48_194 downloaded successfully
+12/24/2023 06:19:08 PM - INFO - shani jkt48_195 is being downloaded
+12/24/2023 06:19:08 PM - INFO - shani jkt48_195 downloaded successfully
+12/24/2023 06:19:08 PM - INFO - shani jkt48_196 is being downloaded
+12/24/2023 06:19:09 PM - INFO - shani jkt48_196 downloaded successfully
+12/24/2023 06:19:09 PM - INFO - shani jkt48_197 is being downloaded
+12/24/2023 06:19:09 PM - INFO - shani jkt48_197 downloaded successfully
+12/24/2023 06:19:09 PM - INFO - shani jkt48_198 is being downloaded
+12/24/2023 06:19:10 PM - INFO - shani jkt48_198 downloaded successfully
+12/24/2023 06:19:10 PM - INFO - shani jkt48_199 is being downloaded
+12/24/2023 06:19:10 PM - INFO - shani jkt48_199 downloaded successfully
+12/24/2023 06:19:10 PM - INFO - shani jkt48_200 is being downloaded
+12/24/2023 06:19:11 PM - INFO - shani jkt48_200 downloaded successfully
+12/24/2023 06:19:11 PM - INFO - shani jkt48_201 is being downloaded
+12/24/2023 06:19:11 PM - INFO - shani jkt48_201 downloaded successfully
+12/24/2023 06:19:11 PM - INFO - shani jkt48_202 is being downloaded
+12/24/2023 06:19:12 PM - INFO - shani jkt48_202 downloaded successfully
+12/24/2023 06:19:12 PM - INFO - shani jkt48_203 is being downloaded
+12/24/2023 06:19:12 PM - INFO - shani jkt48_203 downloaded successfully
+12/24/2023 06:19:12 PM - INFO - shani jkt48_204 is being downloaded
+12/24/2023 06:19:13 PM - INFO - shani jkt48_204 downloaded successfully
+12/24/2023 06:19:13 PM - INFO - shani jkt48_205 is being downloaded
+12/24/2023 06:19:14 PM - INFO - shani jkt48_205 downloaded successfully
+12/24/2023 06:19:14 PM - INFO - shani jkt48_206 is being downloaded
+12/24/2023 06:19:14 PM - INFO - shani jkt48_206 downloaded successfully
+12/24/2023 06:19:14 PM - INFO - shani jkt48_207 is being downloaded
+12/24/2023 06:19:14 PM - INFO - shani jkt48_207 downloaded successfully
+12/24/2023 06:19:14 PM - INFO - shani jkt48_208 is being downloaded
+12/24/2023 06:19:15 PM - INFO - shani jkt48_208 downloaded successfully
+12/24/2023 06:19:15 PM - INFO - shani jkt48_209 is being downloaded
+12/24/2023 06:19:15 PM - INFO - shani jkt48_209 downloaded successfully
+12/24/2023 06:19:15 PM - INFO - shani jkt48_210 is being downloaded
+12/24/2023 06:19:16 PM - INFO - shani jkt48_210 downloaded successfully
+12/24/2023 06:19:16 PM - INFO - shani jkt48_211 is being downloaded
+12/24/2023 06:19:16 PM - INFO - shani jkt48_211 downloaded successfully
+12/24/2023 06:19:16 PM - INFO - shani jkt48_212 is being downloaded
+12/24/2023 06:19:17 PM - INFO - shani jkt48_212 downloaded successfully
+12/24/2023 06:19:17 PM - INFO - shani jkt48_213 is being downloaded
+12/24/2023 06:19:17 PM - INFO - shani jkt48_213 downloaded successfully
+12/24/2023 06:19:17 PM - INFO - shani jkt48_214 is being downloaded
+12/24/2023 06:19:18 PM - INFO - shani jkt48_214 downloaded successfully
+12/24/2023 06:19:18 PM - INFO - shani jkt48_215 is being downloaded
+12/24/2023 06:19:18 PM - INFO - shani jkt48_215 downloaded successfully
+12/24/2023 06:19:18 PM - INFO - shani jkt48_216 is being downloaded
+12/24/2023 06:19:19 PM - INFO - shani jkt48_216 downloaded successfully
+12/24/2023 06:19:19 PM - INFO - shani jkt48_217 is being downloaded
+12/24/2023 06:19:20 PM - INFO - shani jkt48_217 downloaded successfully
+12/24/2023 06:19:20 PM - INFO - shani jkt48_218 is being downloaded
+12/24/2023 06:19:21 PM - INFO - shani jkt48_218 downloaded successfully
+12/24/2023 06:19:21 PM - INFO - shani jkt48_219 is being downloaded
+12/24/2023 06:19:21 PM - INFO - shani jkt48_219 downloaded successfully
+12/24/2023 06:19:21 PM - INFO - shani jkt48_220 is being downloaded
+12/24/2023 06:19:21 PM - INFO - shani jkt48_220 downloaded successfully
+12/24/2023 06:19:21 PM - INFO - shani jkt48_221 is being downloaded
+12/24/2023 06:19:23 PM - INFO - shani jkt48_221 downloaded successfully
+12/24/2023 06:19:23 PM - INFO - shani jkt48_222 is being downloaded
+12/24/2023 06:19:23 PM - INFO - shani jkt48_222 downloaded successfully
+12/24/2023 06:19:23 PM - INFO - shani jkt48_223 is being downloaded
+12/24/2023 06:19:23 PM - INFO - shani jkt48_223 downloaded successfully
+12/24/2023 06:19:23 PM - INFO - shani jkt48_224 is being downloaded
+12/24/2023 06:19:24 PM - INFO - shani jkt48_224 downloaded successfully
+12/24/2023 06:19:24 PM - INFO - shani jkt48_225 is being downloaded
+12/24/2023 06:19:25 PM - INFO - shani jkt48_225 downloaded successfully
+12/24/2023 06:19:25 PM - INFO - shani jkt48_226 is being downloaded
+12/24/2023 06:19:25 PM - INFO - shani jkt48_226 downloaded successfully
+12/24/2023 06:19:25 PM - INFO - shani jkt48_227 is being downloaded
+12/24/2023 06:19:26 PM - INFO - shani jkt48_227 downloaded successfully
+12/24/2023 06:19:26 PM - INFO - shani jkt48_228 is being downloaded
+12/24/2023 06:19:26 PM - INFO - shani jkt48_228 downloaded successfully
+12/24/2023 06:19:26 PM - INFO - shani jkt48_229 is being downloaded
+12/24/2023 06:19:27 PM - INFO - shani jkt48_229 downloaded successfully
+12/24/2023 06:19:27 PM - INFO - shani jkt48_230 is being downloaded
+12/24/2023 06:19:28 PM - INFO - shani jkt48_230 downloaded successfully
+12/24/2023 06:19:28 PM - INFO - shani jkt48_231 is being downloaded
+12/24/2023 06:19:28 PM - INFO - shani jkt48_231 downloaded successfully
+12/24/2023 06:19:28 PM - INFO - shani jkt48_232 is being downloaded
+12/24/2023 06:19:28 PM - INFO - shani jkt48_232 downloaded successfully
+12/24/2023 06:19:28 PM - INFO - shani jkt48_233 is being downloaded
+12/24/2023 06:19:29 PM - INFO - shani jkt48_233 downloaded successfully
+12/24/2023 06:19:29 PM - INFO - shani jkt48_234 is being downloaded
+12/24/2023 06:19:29 PM - INFO - shani jkt48_234 downloaded successfully
+12/24/2023 06:19:29 PM - INFO - shani jkt48_235 is being downloaded
+12/24/2023 06:19:30 PM - INFO - shani jkt48_235 downloaded successfully
+12/24/2023 06:19:30 PM - INFO - shani jkt48_236 is being downloaded
+12/24/2023 06:19:30 PM - INFO - shani jkt48_236 downloaded successfully
+12/24/2023 06:19:30 PM - INFO - shani jkt48_237 is being downloaded
+12/24/2023 06:19:30 PM - INFO - shani jkt48_237 downloaded successfully
+12/24/2023 06:19:30 PM - INFO - shani jkt48_238 is being downloaded
+12/24/2023 06:19:31 PM - INFO - shani jkt48_238 downloaded successfully
+12/24/2023 06:19:31 PM - INFO - shani jkt48_239 is being downloaded
+12/24/2023 06:19:31 PM - INFO - shani jkt48_239 downloaded successfully
+12/24/2023 06:19:31 PM - INFO - shani jkt48_240 is being downloaded
+12/24/2023 06:19:32 PM - INFO - shani jkt48_240 downloaded successfully
+12/24/2023 06:19:32 PM - INFO - shani jkt48_241 is being downloaded
+12/24/2023 06:19:32 PM - INFO - shani jkt48_241 downloaded successfully
+12/24/2023 06:19:32 PM - INFO - shani jkt48_242 is being downloaded
+12/24/2023 06:19:32 PM - INFO - shani jkt48_242 downloaded successfully
+12/24/2023 06:19:32 PM - INFO - shani jkt48_243 is being downloaded
+12/24/2023 06:19:33 PM - INFO - shani jkt48_243 downloaded successfully
+12/24/2023 06:19:33 PM - INFO - shani jkt48_244 is being downloaded
+12/24/2023 06:19:33 PM - INFO - shani jkt48_244 downloaded successfully
+12/24/2023 06:19:33 PM - INFO - shani jkt48_245 is being downloaded
+12/24/2023 06:19:34 PM - INFO - shani jkt48_245 downloaded successfully
+12/24/2023 06:19:34 PM - INFO - shani jkt48_246 is being downloaded
+12/24/2023 06:19:34 PM - INFO - shani jkt48_246 downloaded successfully
+12/24/2023 06:19:34 PM - INFO - shani jkt48_247 is being downloaded
+12/24/2023 06:19:34 PM - INFO - shani jkt48_247 downloaded successfully
+12/24/2023 06:39:52 PM - WARNING - Maximum size is only 250
+12/24/2023 06:39:52 PM - WARNING - The request size will automatically be set to a maximum of 250
+12/24/2023 06:39:52 PM - INFO - Perform a search with a query ['ftvgybhunjmklcfadefr']
+12/24/2023 06:39:52 PM - INFO - perform a search by name ftvgybhunjmklcfadefr
+12/24/2023 06:39:52 PM - DEBUG - Starting new HTTPS connection (1): id.pinterest.com:443
+12/24/2023 06:39:54 PM - DEBUG - https://id.pinterest.com:443 "GET /resource/BaseSearchResource/get/?source_url=/search/pins/?q=ftvgybhunjmklcfadefr&rs=typed&data=%7B%22options%22:%20%7B%22article%22:%20%22%22,%20%22appliedProductFilters%22:%20%22---%22,%20%22price_max%22:%20%22null%22,%20%22price_min%22:%20%22null%22,%20%22scope%22:%20%22pins%22,%20%22auto_correction_disabled%22:%20%22%22,%20%22top_pin_id%22:%20%22%22,%20%22filters%22:%20%22%22,%20%22query%22:%20%22ftvgybhunjmklcfadefr%22,%20%22page_size%22:%20250%7D%7D HTTP/1.1" 200 None
+12/24/2023 06:39:54 PM - CRITICAL - The query you entered is invalid or not found!!
+12/24/2023 06:40:56 PM - WARNING - Maximum size is only 250
+12/24/2023 06:40:56 PM - WARNING - The request size will automatically be set to a maximum of 250
+12/24/2023 06:40:56 PM - INFO - Perform a search with a query ['walpaper_anime']
+12/24/2023 06:40:56 PM - INFO - perform a search by name walpaper anime
+12/24/2023 06:40:56 PM - DEBUG - Starting new HTTPS connection (1): id.pinterest.com:443
+12/24/2023 06:41:10 PM - DEBUG - https://id.pinterest.com:443 "GET /resource/BaseSearchResource/get/?source_url=/search/pins/?q=walpaper%20anime&rs=typed&data=%7B%22options%22:%20%7B%22article%22:%20%22%22,%20%22appliedProductFilters%22:%20%22---%22,%20%22price_max%22:%20%22null%22,%20%22price_min%22:%20%22null%22,%20%22scope%22:%20%22pins%22,%20%22auto_correction_disabled%22:%20%22%22,%20%22top_pin_id%22:%20%22%22,%20%22filters%22:%20%22%22,%20%22query%22:%20%22walpaper%20anime%22,%20%22page_size%22:%20250%7D%7D HTTP/1.1" 200 None
+12/24/2023 06:41:10 PM - INFO - walpaper anime query was found
+12/24/2023 06:41:10 PM - INFO - status 200
+12/24/2023 06:41:10 PM - INFO - data extracted successfully
+12/24/2023 06:41:10 PM - INFO - create folder data/walpaper_anime
+12/24/2023 06:41:10 PM - INFO - create folder data/walpaper_anime/image
+12/24/2023 06:41:10 PM - INFO - create folder data/walpaper_anime/json
+12/24/2023 06:41:10 PM - INFO - walpaper anime_0 is being downloaded
+12/24/2023 06:41:11 PM - INFO - walpaper anime_0 downloaded successfully
+12/24/2023 06:41:11 PM - INFO - walpaper anime_1 is being downloaded
+12/24/2023 06:41:11 PM - INFO - walpaper anime_1 downloaded successfully
+12/24/2023 06:41:11 PM - INFO - walpaper anime_2 is being downloaded
+12/24/2023 06:41:12 PM - INFO - walpaper anime_2 downloaded successfully
+12/24/2023 06:41:12 PM - INFO - walpaper anime_3 is being downloaded
+12/24/2023 06:41:12 PM - INFO - walpaper anime_3 downloaded successfully
+12/24/2023 06:41:12 PM - INFO - walpaper anime_4 is being downloaded
+12/24/2023 06:41:12 PM - INFO - walpaper anime_4 downloaded successfully
+12/24/2023 06:41:12 PM - INFO - walpaper anime_5 is being downloaded
+12/24/2023 06:41:13 PM - INFO - walpaper anime_5 downloaded successfully
+12/24/2023 06:41:13 PM - INFO - walpaper anime_6 is being downloaded
+12/24/2023 06:41:13 PM - INFO - walpaper anime_6 downloaded successfully
+12/24/2023 06:41:13 PM - INFO - walpaper anime_7 is being downloaded
+12/24/2023 06:41:14 PM - INFO - walpaper anime_7 downloaded successfully
+12/24/2023 06:41:14 PM - INFO - walpaper anime_8 is being downloaded
+12/24/2023 06:41:14 PM - INFO - walpaper anime_8 downloaded successfully
+12/24/2023 06:41:14 PM - INFO - walpaper anime_9 is being downloaded
+12/24/2023 06:41:15 PM - INFO - walpaper anime_9 downloaded successfully
+12/24/2023 06:41:15 PM - INFO - walpaper anime_10 is being downloaded
+12/24/2023 06:41:15 PM - INFO - walpaper anime_10 downloaded successfully
+12/24/2023 06:41:15 PM - INFO - walpaper anime_11 is being downloaded
+12/24/2023 06:41:16 PM - INFO - walpaper anime_11 downloaded successfully
+12/24/2023 06:41:16 PM - INFO - walpaper anime_12 is being downloaded
+12/24/2023 06:41:16 PM - INFO - walpaper anime_12 downloaded successfully
+12/24/2023 06:41:16 PM - INFO - walpaper anime_13 is being downloaded
+12/24/2023 06:41:17 PM - INFO - walpaper anime_13 downloaded successfully
+12/24/2023 06:41:17 PM - INFO - walpaper anime_14 is being downloaded
+12/24/2023 06:41:17 PM - INFO - walpaper anime_14 downloaded successfully
+12/24/2023 06:41:17 PM - INFO - walpaper anime_15 is being downloaded
+12/24/2023 06:41:18 PM - INFO - walpaper anime_15 downloaded successfully
+12/24/2023 06:41:18 PM - INFO - walpaper anime_16 is being downloaded
+12/24/2023 06:41:22 PM - INFO - walpaper anime_16 downloaded successfully
+12/24/2023 06:41:22 PM - INFO - walpaper anime_17 is being downloaded
+12/24/2023 06:41:23 PM - INFO - walpaper anime_17 downloaded successfully
+12/24/2023 06:41:23 PM - INFO - walpaper anime_18 is being downloaded
+12/24/2023 06:41:24 PM - INFO - walpaper anime_18 downloaded successfully
+12/24/2023 06:41:24 PM - INFO - walpaper anime_19 is being downloaded
+12/24/2023 06:41:24 PM - INFO - walpaper anime_19 downloaded successfully
+12/24/2023 06:41:24 PM - INFO - walpaper anime_20 is being downloaded
+12/24/2023 06:41:29 PM - INFO - walpaper anime_20 downloaded successfully
+12/24/2023 06:41:29 PM - INFO - walpaper anime_21 is being downloaded
+12/24/2023 06:41:30 PM - INFO - walpaper anime_21 downloaded successfully
+12/24/2023 06:41:30 PM - INFO - walpaper anime_22 is being downloaded
+12/24/2023 06:41:30 PM - INFO - walpaper anime_22 downloaded successfully
+12/24/2023 06:41:30 PM - INFO - walpaper anime_23 is being downloaded
+12/24/2023 06:41:31 PM - INFO - walpaper anime_23 downloaded successfully
+12/24/2023 06:41:31 PM - INFO - walpaper anime_24 is being downloaded
+12/24/2023 06:41:32 PM - INFO - walpaper anime_24 downloaded successfully
+12/24/2023 06:41:32 PM - INFO - walpaper anime_25 is being downloaded
+12/24/2023 06:41:32 PM - INFO - walpaper anime_25 downloaded successfully
+12/24/2023 06:41:32 PM - INFO - walpaper anime_26 is being downloaded
+12/24/2023 06:41:33 PM - INFO - walpaper anime_26 downloaded successfully
+12/24/2023 06:41:33 PM - INFO - walpaper anime_27 is being downloaded
+12/24/2023 06:41:34 PM - INFO - walpaper anime_27 downloaded successfully
+12/24/2023 06:41:34 PM - INFO - walpaper anime_28 is being downloaded
+12/24/2023 06:41:34 PM - INFO - walpaper anime_28 downloaded successfully
+12/24/2023 06:41:34 PM - INFO - walpaper anime_29 is being downloaded
+12/24/2023 06:41:35 PM - INFO - walpaper anime_29 downloaded successfully
+12/24/2023 06:41:35 PM - INFO - walpaper anime_30 is being downloaded
+12/24/2023 06:41:35 PM - INFO - walpaper anime_30 downloaded successfully
+12/24/2023 06:41:35 PM - INFO - walpaper anime_31 is being downloaded
+12/24/2023 06:41:36 PM - INFO - walpaper anime_31 downloaded successfully
+12/24/2023 06:41:36 PM - INFO - walpaper anime_32 is being downloaded
+12/24/2023 06:41:36 PM - INFO - walpaper anime_32 downloaded successfully
+12/24/2023 06:41:37 PM - INFO - walpaper anime_33 is being downloaded
+12/24/2023 06:41:37 PM - INFO - walpaper anime_33 downloaded successfully
+12/24/2023 06:41:37 PM - INFO - walpaper anime_34 is being downloaded
+12/24/2023 06:41:39 PM - INFO - walpaper anime_34 downloaded successfully
+12/24/2023 06:41:39 PM - INFO - walpaper anime_35 is being downloaded
+12/24/2023 06:41:50 PM - INFO - walpaper anime_35 downloaded successfully
+12/24/2023 06:41:50 PM - INFO - walpaper anime_36 is being downloaded
+12/24/2023 06:41:51 PM - INFO - walpaper anime_36 downloaded successfully
+12/24/2023 06:41:51 PM - INFO - walpaper anime_37 is being downloaded
+12/24/2023 06:41:51 PM - INFO - walpaper anime_37 downloaded successfully
+12/24/2023 06:41:52 PM - INFO - walpaper anime_38 is being downloaded
+12/24/2023 06:41:53 PM - INFO - walpaper anime_38 downloaded successfully
+12/24/2023 06:41:53 PM - INFO - walpaper anime_39 is being downloaded
+12/24/2023 06:41:53 PM - INFO - walpaper anime_39 downloaded successfully
+12/24/2023 06:41:53 PM - INFO - walpaper anime_40 is being downloaded
+12/24/2023 06:41:54 PM - INFO - walpaper anime_40 downloaded successfully
+12/24/2023 06:41:54 PM - INFO - walpaper anime_41 is being downloaded
+12/24/2023 06:41:54 PM - INFO - walpaper anime_41 downloaded successfully
+12/24/2023 06:41:55 PM - INFO - walpaper anime_42 is being downloaded
+12/24/2023 06:41:55 PM - INFO - walpaper anime_42 downloaded successfully
+12/24/2023 06:41:55 PM - INFO - walpaper anime_43 is being downloaded
+12/24/2023 06:41:56 PM - INFO - walpaper anime_43 downloaded successfully
+12/24/2023 06:41:56 PM - INFO - walpaper anime_44 is being downloaded
+12/24/2023 06:41:56 PM - INFO - walpaper anime_44 downloaded successfully
+12/24/2023 06:41:56 PM - INFO - walpaper anime_45 is being downloaded
+12/24/2023 06:41:57 PM - INFO - walpaper anime_45 downloaded successfully
+12/24/2023 06:41:57 PM - INFO - walpaper anime_46 is being downloaded
+12/24/2023 06:41:57 PM - INFO - walpaper anime_46 downloaded successfully
+12/24/2023 06:41:57 PM - INFO - walpaper anime_47 is being downloaded
+12/24/2023 06:41:58 PM - INFO - walpaper anime_47 downloaded successfully
+12/24/2023 06:41:58 PM - INFO - walpaper anime_48 is being downloaded
+12/24/2023 06:41:58 PM - INFO - walpaper anime_48 downloaded successfully
+12/24/2023 06:41:58 PM - INFO - walpaper anime_49 is being downloaded
+12/24/2023 06:41:58 PM - INFO - walpaper anime_49 downloaded successfully
+12/24/2023 06:41:58 PM - INFO - walpaper anime_50 is being downloaded
+12/24/2023 06:42:11 PM - INFO - walpaper anime_50 downloaded successfully
+12/24/2023 06:42:11 PM - INFO - walpaper anime_51 is being downloaded
+12/24/2023 06:42:12 PM - INFO - walpaper anime_51 downloaded successfully
+12/24/2023 06:42:12 PM - INFO - walpaper anime_52 is being downloaded
+12/24/2023 06:42:12 PM - INFO - walpaper anime_52 downloaded successfully
+12/24/2023 06:42:12 PM - INFO - walpaper anime_53 is being downloaded
+12/24/2023 06:42:13 PM - INFO - walpaper anime_53 downloaded successfully
+12/24/2023 06:42:13 PM - INFO - walpaper anime_54 is being downloaded
+12/24/2023 06:42:14 PM - INFO - walpaper anime_54 downloaded successfully
+12/24/2023 06:42:14 PM - INFO - walpaper anime_55 is being downloaded
+12/24/2023 06:42:14 PM - INFO - walpaper anime_55 downloaded successfully
+12/24/2023 06:42:14 PM - INFO - walpaper anime_56 is being downloaded
+12/24/2023 06:42:15 PM - INFO - walpaper anime_56 downloaded successfully
+12/24/2023 06:42:15 PM - INFO - walpaper anime_57 is being downloaded
+12/24/2023 06:42:15 PM - INFO - walpaper anime_57 downloaded successfully
+12/24/2023 06:42:15 PM - INFO - walpaper anime_58 is being downloaded
+12/24/2023 06:42:16 PM - INFO - walpaper anime_58 downloaded successfully
+12/24/2023 06:42:16 PM - INFO - walpaper anime_59 is being downloaded
+12/24/2023 06:42:28 PM - INFO - walpaper anime_59 downloaded successfully
+12/24/2023 06:42:28 PM - INFO - walpaper anime_60 is being downloaded
+12/24/2023 06:42:28 PM - INFO - walpaper anime_60 downloaded successfully
+12/24/2023 06:42:28 PM - INFO - walpaper anime_61 is being downloaded
+12/24/2023 06:42:29 PM - INFO - walpaper anime_61 downloaded successfully
+12/24/2023 06:42:29 PM - INFO - walpaper anime_62 is being downloaded
+12/24/2023 06:42:29 PM - INFO - walpaper anime_62 downloaded successfully
+12/24/2023 06:42:29 PM - INFO - walpaper anime_63 is being downloaded
+12/24/2023 06:42:30 PM - INFO - walpaper anime_63 downloaded successfully
+12/24/2023 06:42:30 PM - INFO - walpaper anime_64 is being downloaded
+12/24/2023 06:42:30 PM - INFO - walpaper anime_64 downloaded successfully
+12/24/2023 06:42:30 PM - INFO - walpaper anime_65 is being downloaded
+12/24/2023 06:42:30 PM - INFO - walpaper anime_65 downloaded successfully
+12/24/2023 06:42:30 PM - INFO - walpaper anime_66 is being downloaded
+12/24/2023 06:42:31 PM - INFO - walpaper anime_66 downloaded successfully
+12/24/2023 06:42:31 PM - INFO - walpaper anime_67 is being downloaded
+12/24/2023 06:42:32 PM - INFO - walpaper anime_67 downloaded successfully
+12/24/2023 06:42:32 PM - INFO - walpaper anime_68 is being downloaded
+12/24/2023 06:42:32 PM - INFO - walpaper anime_68 downloaded successfully
+12/24/2023 06:42:32 PM - INFO - walpaper anime_69 is being downloaded
+12/24/2023 06:42:33 PM - INFO - walpaper anime_69 downloaded successfully
+12/24/2023 06:42:33 PM - INFO - walpaper anime_70 is being downloaded
+12/24/2023 06:42:34 PM - INFO - walpaper anime_70 downloaded successfully
+12/24/2023 06:42:34 PM - INFO - walpaper anime_71 is being downloaded
+12/24/2023 06:42:34 PM - INFO - walpaper anime_71 downloaded successfully
+12/24/2023 06:42:34 PM - INFO - walpaper anime_72 is being downloaded
+12/24/2023 06:42:35 PM - INFO - walpaper anime_72 downloaded successfully
+12/24/2023 06:42:35 PM - INFO - walpaper anime_73 is being downloaded
+12/24/2023 06:42:47 PM - INFO - walpaper anime_73 downloaded successfully
+12/24/2023 06:42:47 PM - INFO - walpaper anime_74 is being downloaded
+12/24/2023 06:42:47 PM - INFO - walpaper anime_74 downloaded successfully
+12/24/2023 06:42:47 PM - INFO - walpaper anime_75 is being downloaded
+12/24/2023 06:42:48 PM - INFO - walpaper anime_75 downloaded successfully
+12/24/2023 06:42:48 PM - INFO - walpaper anime_76 is being downloaded
+12/24/2023 06:42:48 PM - INFO - walpaper anime_76 downloaded successfully
+12/24/2023 06:42:48 PM - INFO - walpaper anime_77 is being downloaded
+12/24/2023 06:42:49 PM - INFO - walpaper anime_77 downloaded successfully
+12/24/2023 06:42:49 PM - INFO - walpaper anime_78 is being downloaded
+12/24/2023 06:42:49 PM - INFO - walpaper anime_78 downloaded successfully
+12/24/2023 06:42:49 PM - INFO - walpaper anime_79 is being downloaded
+12/24/2023 06:42:50 PM - INFO - walpaper anime_79 downloaded successfully
+12/24/2023 06:42:50 PM - INFO - walpaper anime_80 is being downloaded
+12/24/2023 06:42:50 PM - INFO - walpaper anime_80 downloaded successfully
+12/24/2023 06:42:50 PM - INFO - walpaper anime_81 is being downloaded
+12/24/2023 06:42:51 PM - INFO - walpaper anime_81 downloaded successfully
+12/24/2023 06:42:51 PM - INFO - walpaper anime_82 is being downloaded
+12/24/2023 06:42:51 PM - INFO - walpaper anime_82 downloaded successfully
+12/24/2023 06:42:51 PM - INFO - walpaper anime_83 is being downloaded
+12/24/2023 06:42:52 PM - INFO - walpaper anime_83 downloaded successfully
+12/24/2023 06:42:52 PM - INFO - walpaper anime_84 is being downloaded
+12/24/2023 06:43:03 PM - INFO - walpaper anime_84 downloaded successfully
+12/24/2023 06:43:03 PM - INFO - walpaper anime_85 is being downloaded
+12/24/2023 06:43:04 PM - INFO - walpaper anime_85 downloaded successfully
+12/24/2023 06:43:04 PM - INFO - walpaper anime_86 is being downloaded
+12/24/2023 06:43:05 PM - INFO - walpaper anime_86 downloaded successfully
+12/24/2023 06:43:05 PM - INFO - walpaper anime_87 is being downloaded
+12/24/2023 06:43:05 PM - INFO - walpaper anime_87 downloaded successfully
+12/24/2023 06:43:05 PM - INFO - walpaper anime_88 is being downloaded
+12/24/2023 06:43:06 PM - INFO - walpaper anime_88 downloaded successfully
+12/24/2023 06:43:06 PM - INFO - walpaper anime_89 is being downloaded
+12/24/2023 06:43:07 PM - INFO - walpaper anime_89 downloaded successfully
+12/24/2023 06:43:07 PM - INFO - walpaper anime_90 is being downloaded
+12/24/2023 06:43:07 PM - INFO - walpaper anime_90 downloaded successfully
+12/24/2023 06:43:07 PM - INFO - walpaper anime_91 is being downloaded
+12/24/2023 06:43:08 PM - INFO - walpaper anime_91 downloaded successfully
+12/24/2023 06:43:08 PM - INFO - walpaper anime_92 is being downloaded
+12/24/2023 06:43:08 PM - INFO - walpaper anime_92 downloaded successfully
+12/24/2023 06:43:08 PM - INFO - walpaper anime_93 is being downloaded
+12/24/2023 06:43:09 PM - INFO - walpaper anime_93 downloaded successfully
+12/24/2023 06:43:09 PM - INFO - walpaper anime_94 is being downloaded
+12/24/2023 06:43:09 PM - INFO - walpaper anime_94 downloaded successfully
+12/24/2023 06:43:09 PM - INFO - walpaper anime_95 is being downloaded
+12/24/2023 06:43:10 PM - INFO - walpaper anime_95 downloaded successfully
+12/24/2023 06:43:10 PM - INFO - walpaper anime_96 is being downloaded
+12/24/2023 06:43:10 PM - INFO - walpaper anime_96 downloaded successfully
+12/24/2023 06:43:11 PM - INFO - walpaper anime_97 is being downloaded
+12/24/2023 06:43:11 PM - INFO - walpaper anime_97 downloaded successfully
+12/24/2023 06:43:11 PM - INFO - walpaper anime_98 is being downloaded
+12/24/2023 06:43:12 PM - INFO - walpaper anime_98 downloaded successfully
+12/24/2023 06:43:12 PM - INFO - walpaper anime_99 is being downloaded
+12/24/2023 06:43:12 PM - INFO - walpaper anime_99 downloaded successfully
+12/24/2023 06:43:12 PM - INFO - walpaper anime_100 is being downloaded
+12/24/2023 06:43:13 PM - INFO - walpaper anime_100 downloaded successfully
+12/24/2023 06:43:13 PM - INFO - walpaper anime_101 is being downloaded
+12/24/2023 06:43:13 PM - INFO - walpaper anime_101 downloaded successfully
+12/24/2023 06:43:13 PM - INFO - walpaper anime_102 is being downloaded
+12/24/2023 06:43:14 PM - INFO - walpaper anime_102 downloaded successfully
+12/24/2023 06:43:14 PM - INFO - walpaper anime_103 is being downloaded
+12/24/2023 06:43:14 PM - INFO - walpaper anime_103 downloaded successfully
+12/24/2023 06:43:14 PM - INFO - walpaper anime_104 is being downloaded
+12/24/2023 06:43:15 PM - INFO - walpaper anime_104 downloaded successfully
+12/24/2023 06:43:15 PM - INFO - walpaper anime_105 is being downloaded
+12/24/2023 06:43:15 PM - INFO - walpaper anime_105 downloaded successfully
+12/24/2023 06:43:15 PM - INFO - walpaper anime_106 is being downloaded
+12/24/2023 06:43:16 PM - INFO - walpaper anime_106 downloaded successfully
+12/24/2023 06:43:16 PM - INFO - walpaper anime_107 is being downloaded
+12/24/2023 06:43:27 PM - INFO - walpaper anime_107 downloaded successfully
+12/24/2023 06:43:27 PM - INFO - walpaper anime_108 is being downloaded
+12/24/2023 06:43:28 PM - INFO - walpaper anime_108 downloaded successfully
+12/24/2023 06:43:28 PM - INFO - walpaper anime_109 is being downloaded
+12/24/2023 06:43:29 PM - INFO - walpaper anime_109 downloaded successfully
+12/24/2023 06:43:29 PM - INFO - walpaper anime_110 is being downloaded
+12/24/2023 06:43:29 PM - INFO - walpaper anime_110 downloaded successfully
+12/24/2023 06:43:29 PM - INFO - walpaper anime_111 is being downloaded
+12/24/2023 06:43:30 PM - INFO - walpaper anime_111 downloaded successfully
+12/24/2023 06:43:30 PM - INFO - walpaper anime_112 is being downloaded
+12/24/2023 06:43:30 PM - INFO - walpaper anime_112 downloaded successfully
+12/24/2023 06:43:30 PM - INFO - walpaper anime_113 is being downloaded
+12/24/2023 06:43:31 PM - INFO - walpaper anime_113 downloaded successfully
+12/24/2023 06:43:31 PM - INFO - walpaper anime_114 is being downloaded
+12/24/2023 06:43:31 PM - INFO - walpaper anime_114 downloaded successfully
+12/24/2023 06:43:31 PM - INFO - walpaper anime_115 is being downloaded
+12/24/2023 06:43:32 PM - INFO - walpaper anime_115 downloaded successfully
+12/24/2023 06:43:32 PM - INFO - walpaper anime_116 is being downloaded
+12/24/2023 06:43:33 PM - INFO - walpaper anime_116 downloaded successfully
+12/24/2023 06:43:33 PM - INFO - walpaper anime_117 is being downloaded
+12/24/2023 06:43:33 PM - INFO - walpaper anime_117 downloaded successfully
+12/24/2023 06:43:33 PM - INFO - walpaper anime_118 is being downloaded
+12/24/2023 06:43:34 PM - INFO - walpaper anime_118 downloaded successfully
+12/24/2023 06:43:34 PM - INFO - walpaper anime_119 is being downloaded
+12/24/2023 06:43:34 PM - INFO - walpaper anime_119 downloaded successfully
+12/24/2023 06:43:34 PM - INFO - walpaper anime_120 is being downloaded
+12/24/2023 06:43:35 PM - INFO - walpaper anime_120 downloaded successfully
+12/24/2023 06:43:35 PM - INFO - walpaper anime_121 is being downloaded
+12/24/2023 06:43:36 PM - INFO - walpaper anime_121 downloaded successfully
+12/24/2023 06:43:36 PM - INFO - walpaper anime_122 is being downloaded
+12/24/2023 06:43:36 PM - INFO - walpaper anime_122 downloaded successfully
+12/24/2023 06:43:36 PM - INFO - walpaper anime_123 is being downloaded
+12/24/2023 06:43:37 PM - INFO - walpaper anime_123 downloaded successfully
+12/24/2023 06:43:37 PM - INFO - walpaper anime_124 is being downloaded
+12/24/2023 06:43:38 PM - INFO - walpaper anime_124 downloaded successfully
+12/24/2023 06:43:38 PM - INFO - walpaper anime_125 is being downloaded
+12/24/2023 06:43:38 PM - INFO - walpaper anime_125 downloaded successfully
+12/24/2023 06:43:38 PM - INFO - walpaper anime_126 is being downloaded
+12/24/2023 06:43:39 PM - INFO - walpaper anime_126 downloaded successfully
+12/24/2023 06:43:39 PM - INFO - walpaper anime_127 is being downloaded
+12/24/2023 06:43:40 PM - INFO - walpaper anime_127 downloaded successfully
+12/24/2023 06:43:40 PM - INFO - walpaper anime_128 is being downloaded
+12/24/2023 06:43:41 PM - INFO - walpaper anime_128 downloaded successfully
+12/24/2023 06:43:41 PM - INFO - walpaper anime_129 is being downloaded
+12/24/2023 06:43:41 PM - INFO - walpaper anime_129 downloaded successfully
+12/24/2023 06:43:41 PM - INFO - walpaper anime_130 is being downloaded
+12/24/2023 06:43:42 PM - INFO - walpaper anime_130 downloaded successfully
+12/24/2023 06:43:42 PM - INFO - walpaper anime_131 is being downloaded
+12/24/2023 06:43:44 PM - INFO - walpaper anime_131 downloaded successfully
+12/24/2023 06:43:44 PM - INFO - walpaper anime_132 is being downloaded
+12/24/2023 06:43:44 PM - INFO - walpaper anime_132 downloaded successfully
+12/24/2023 06:43:44 PM - INFO - walpaper anime_133 is being downloaded
+12/24/2023 06:43:45 PM - INFO - walpaper anime_133 downloaded successfully
+12/24/2023 06:43:45 PM - INFO - walpaper anime_134 is being downloaded
+12/24/2023 06:43:46 PM - INFO - walpaper anime_134 downloaded successfully
+12/24/2023 06:43:46 PM - INFO - walpaper anime_135 is being downloaded
+12/24/2023 06:43:46 PM - INFO - walpaper anime_135 downloaded successfully
+12/24/2023 06:43:46 PM - INFO - walpaper anime_136 is being downloaded
+12/24/2023 06:43:47 PM - INFO - walpaper anime_136 downloaded successfully
+12/24/2023 06:43:47 PM - INFO - walpaper anime_137 is being downloaded
+12/24/2023 06:43:58 PM - INFO - walpaper anime_137 downloaded successfully
+12/24/2023 06:43:58 PM - INFO - walpaper anime_138 is being downloaded
+12/24/2023 06:43:59 PM - INFO - walpaper anime_138 downloaded successfully
+12/24/2023 06:43:59 PM - INFO - walpaper anime_139 is being downloaded
+12/24/2023 06:43:59 PM - INFO - walpaper anime_139 downloaded successfully
+12/24/2023 06:43:59 PM - INFO - walpaper anime_140 is being downloaded
+12/24/2023 06:44:00 PM - INFO - walpaper anime_140 downloaded successfully
+12/24/2023 06:44:00 PM - INFO - walpaper anime_141 is being downloaded
+12/24/2023 06:44:00 PM - INFO - walpaper anime_141 downloaded successfully
+12/24/2023 06:44:00 PM - INFO - walpaper anime_142 is being downloaded
+12/24/2023 06:44:01 PM - INFO - walpaper anime_142 downloaded successfully
+12/24/2023 06:44:01 PM - INFO - walpaper anime_143 is being downloaded
+12/24/2023 06:44:03 PM - INFO - walpaper anime_143 downloaded successfully
+12/24/2023 06:44:03 PM - INFO - walpaper anime_144 is being downloaded
+12/24/2023 06:44:03 PM - INFO - walpaper anime_144 downloaded successfully
+12/24/2023 06:44:03 PM - INFO - walpaper anime_145 is being downloaded
+12/24/2023 06:44:04 PM - INFO - walpaper anime_145 downloaded successfully
+12/24/2023 06:44:04 PM - INFO - walpaper anime_146 is being downloaded
+12/24/2023 06:44:04 PM - INFO - walpaper anime_146 downloaded successfully
+12/24/2023 06:44:04 PM - INFO - walpaper anime_147 is being downloaded
+12/24/2023 06:44:05 PM - INFO - walpaper anime_147 downloaded successfully
+12/24/2023 06:44:05 PM - INFO - walpaper anime_148 is being downloaded
+12/24/2023 06:44:05 PM - INFO - walpaper anime_148 downloaded successfully
+12/24/2023 06:44:05 PM - INFO - walpaper anime_149 is being downloaded
+12/24/2023 06:44:06 PM - INFO - walpaper anime_149 downloaded successfully
+12/24/2023 06:44:06 PM - INFO - walpaper anime_150 is being downloaded
+12/24/2023 06:44:06 PM - INFO - walpaper anime_150 downloaded successfully
+12/24/2023 06:44:06 PM - INFO - walpaper anime_151 is being downloaded
+12/24/2023 06:44:07 PM - INFO - walpaper anime_151 downloaded successfully
+12/24/2023 06:44:07 PM - INFO - walpaper anime_152 is being downloaded
+12/24/2023 06:44:07 PM - INFO - walpaper anime_152 downloaded successfully
+12/24/2023 06:44:07 PM - INFO - walpaper anime_153 is being downloaded
+12/24/2023 06:44:08 PM - INFO - walpaper anime_153 downloaded successfully
+12/24/2023 06:44:08 PM - INFO - walpaper anime_154 is being downloaded
+12/24/2023 06:44:09 PM - INFO - walpaper anime_154 downloaded successfully
+12/24/2023 06:44:09 PM - INFO - walpaper anime_155 is being downloaded
+12/24/2023 06:44:09 PM - INFO - walpaper anime_155 downloaded successfully
+12/24/2023 06:44:09 PM - INFO - walpaper anime_156 is being downloaded
+12/24/2023 06:44:10 PM - INFO - walpaper anime_156 downloaded successfully
+12/24/2023 06:44:10 PM - INFO - walpaper anime_157 is being downloaded
+12/24/2023 06:44:21 PM - INFO - walpaper anime_157 downloaded successfully
+12/24/2023 06:44:21 PM - INFO - walpaper anime_158 is being downloaded
+12/24/2023 06:44:22 PM - INFO - walpaper anime_158 downloaded successfully
+12/24/2023 06:44:22 PM - INFO - walpaper anime_159 is being downloaded
+12/24/2023 06:44:22 PM - INFO - walpaper anime_159 downloaded successfully
+12/24/2023 06:44:22 PM - INFO - walpaper anime_160 is being downloaded
+12/24/2023 06:44:23 PM - INFO - walpaper anime_160 downloaded successfully
+12/24/2023 06:44:23 PM - INFO - walpaper anime_161 is being downloaded
+12/24/2023 06:44:24 PM - INFO - walpaper anime_161 downloaded successfully
+12/24/2023 06:44:24 PM - INFO - walpaper anime_162 is being downloaded
+12/24/2023 06:44:25 PM - INFO - walpaper anime_162 downloaded successfully
+12/24/2023 06:44:25 PM - INFO - walpaper anime_163 is being downloaded
+12/24/2023 06:44:25 PM - INFO - walpaper anime_163 downloaded successfully
+12/24/2023 06:44:25 PM - INFO - walpaper anime_164 is being downloaded
+12/24/2023 06:44:26 PM - INFO - walpaper anime_164 downloaded successfully
+12/24/2023 06:44:26 PM - INFO - walpaper anime_165 is being downloaded
+12/24/2023 06:44:26 PM - INFO - walpaper anime_165 downloaded successfully
+12/24/2023 06:44:26 PM - INFO - walpaper anime_166 is being downloaded
+12/24/2023 06:44:27 PM - INFO - walpaper anime_166 downloaded successfully
+12/24/2023 06:44:27 PM - INFO - walpaper anime_167 is being downloaded
+12/24/2023 06:44:27 PM - INFO - walpaper anime_167 downloaded successfully
+12/24/2023 06:44:27 PM - INFO - walpaper anime_168 is being downloaded
+12/24/2023 06:44:28 PM - INFO - walpaper anime_168 downloaded successfully
+12/24/2023 06:44:28 PM - INFO - walpaper anime_169 is being downloaded
+12/24/2023 06:44:28 PM - INFO - walpaper anime_169 downloaded successfully
+12/24/2023 06:44:28 PM - INFO - walpaper anime_170 is being downloaded
+12/24/2023 06:44:29 PM - INFO - walpaper anime_170 downloaded successfully
+12/24/2023 06:44:29 PM - INFO - walpaper anime_171 is being downloaded
+12/24/2023 06:44:30 PM - INFO - walpaper anime_171 downloaded successfully
+12/24/2023 06:44:30 PM - INFO - walpaper anime_172 is being downloaded
+12/24/2023 06:44:31 PM - INFO - walpaper anime_172 downloaded successfully
+12/24/2023 06:44:31 PM - INFO - walpaper anime_173 is being downloaded
+12/24/2023 06:44:31 PM - INFO - walpaper anime_173 downloaded successfully
+12/24/2023 06:44:31 PM - INFO - walpaper anime_174 is being downloaded
+12/24/2023 06:44:32 PM - INFO - walpaper anime_174 downloaded successfully
+12/24/2023 06:44:32 PM - INFO - walpaper anime_175 is being downloaded
+12/24/2023 06:44:33 PM - INFO - walpaper anime_175 downloaded successfully
+12/24/2023 06:44:33 PM - INFO - walpaper anime_176 is being downloaded
+12/24/2023 06:44:33 PM - INFO - walpaper anime_176 downloaded successfully
+12/24/2023 06:44:33 PM - INFO - walpaper anime_177 is being downloaded
+12/24/2023 06:44:34 PM - INFO - walpaper anime_177 downloaded successfully
+12/24/2023 06:44:34 PM - INFO - walpaper anime_178 is being downloaded
+12/24/2023 06:44:34 PM - INFO - walpaper anime_178 downloaded successfully
+12/24/2023 06:44:34 PM - INFO - walpaper anime_179 is being downloaded
+12/24/2023 06:44:35 PM - INFO - walpaper anime_179 downloaded successfully
+12/24/2023 06:44:35 PM - INFO - walpaper anime_180 is being downloaded
+12/24/2023 06:44:35 PM - INFO - walpaper anime_180 downloaded successfully
+12/24/2023 06:44:35 PM - INFO - walpaper anime_181 is being downloaded
+12/24/2023 06:44:36 PM - INFO - walpaper anime_181 downloaded successfully
+12/24/2023 06:44:36 PM - INFO - walpaper anime_182 is being downloaded
+12/24/2023 06:44:37 PM - INFO - walpaper anime_182 downloaded successfully
+12/24/2023 06:44:37 PM - INFO - walpaper anime_183 is being downloaded
+12/24/2023 06:44:38 PM - INFO - walpaper anime_183 downloaded successfully
+12/24/2023 06:44:38 PM - INFO - walpaper anime_184 is being downloaded
+12/24/2023 06:44:38 PM - INFO - walpaper anime_184 downloaded successfully
+12/24/2023 06:44:38 PM - INFO - walpaper anime_185 is being downloaded
+12/24/2023 06:44:39 PM - INFO - walpaper anime_185 downloaded successfully
+12/24/2023 06:44:39 PM - INFO - walpaper anime_186 is being downloaded
+12/24/2023 06:44:39 PM - INFO - walpaper anime_186 downloaded successfully
+12/24/2023 06:44:39 PM - INFO - walpaper anime_187 is being downloaded
+12/24/2023 06:44:40 PM - INFO - walpaper anime_187 downloaded successfully
+12/24/2023 06:44:40 PM - INFO - walpaper anime_188 is being downloaded
+12/24/2023 06:44:40 PM - INFO - walpaper anime_188 downloaded successfully
+12/24/2023 06:44:40 PM - INFO - walpaper anime_189 is being downloaded
+12/24/2023 06:44:41 PM - INFO - walpaper anime_189 downloaded successfully
+12/24/2023 06:44:41 PM - INFO - walpaper anime_190 is being downloaded
+12/24/2023 06:44:42 PM - INFO - walpaper anime_190 downloaded successfully
+12/24/2023 06:44:42 PM - INFO - walpaper anime_191 is being downloaded
+12/24/2023 06:44:42 PM - INFO - walpaper anime_191 downloaded successfully
+12/24/2023 06:44:42 PM - INFO - walpaper anime_192 is being downloaded
+12/24/2023 06:44:43 PM - INFO - walpaper anime_192 downloaded successfully
+12/24/2023 06:44:43 PM - INFO - walpaper anime_193 is being downloaded
+12/24/2023 06:44:43 PM - INFO - walpaper anime_193 downloaded successfully
+12/24/2023 06:44:43 PM - INFO - walpaper anime_194 is being downloaded
+12/24/2023 06:44:44 PM - INFO - walpaper anime_194 downloaded successfully
+12/24/2023 06:44:44 PM - INFO - walpaper anime_195 is being downloaded
+12/24/2023 06:44:45 PM - INFO - walpaper anime_195 downloaded successfully
+12/24/2023 06:44:45 PM - INFO - walpaper anime_196 is being downloaded
+12/24/2023 06:44:45 PM - INFO - walpaper anime_196 downloaded successfully
+12/24/2023 06:44:45 PM - INFO - walpaper anime_197 is being downloaded
+12/24/2023 06:44:46 PM - INFO - walpaper anime_197 downloaded successfully
+12/24/2023 06:44:46 PM - INFO - walpaper anime_198 is being downloaded
+12/24/2023 06:44:46 PM - INFO - walpaper anime_198 downloaded successfully
+12/24/2023 06:44:46 PM - INFO - walpaper anime_199 is being downloaded
+12/24/2023 06:44:47 PM - INFO - walpaper anime_199 downloaded successfully
+12/24/2023 06:44:47 PM - INFO - walpaper anime_200 is being downloaded
+12/24/2023 06:44:47 PM - INFO - walpaper anime_200 downloaded successfully
+12/24/2023 06:44:47 PM - INFO - walpaper anime_201 is being downloaded
+12/24/2023 06:44:48 PM - INFO - walpaper anime_201 downloaded successfully
+12/24/2023 06:44:48 PM - INFO - walpaper anime_202 is being downloaded
+12/24/2023 06:44:48 PM - INFO - walpaper anime_202 downloaded successfully
+12/24/2023 06:44:48 PM - INFO - walpaper anime_203 is being downloaded
+12/24/2023 06:44:48 PM - INFO - walpaper anime_203 downloaded successfully
+12/24/2023 06:44:48 PM - INFO - walpaper anime_204 is being downloaded
+12/24/2023 06:44:49 PM - INFO - walpaper anime_204 downloaded successfully
+12/24/2023 06:44:49 PM - INFO - walpaper anime_205 is being downloaded
+12/24/2023 06:44:49 PM - INFO - walpaper anime_205 downloaded successfully
+12/24/2023 06:44:49 PM - INFO - walpaper anime_206 is being downloaded
+12/24/2023 06:44:50 PM - INFO - walpaper anime_206 downloaded successfully
+12/24/2023 06:44:50 PM - INFO - walpaper anime_207 is being downloaded
+12/24/2023 06:44:51 PM - INFO - walpaper anime_207 downloaded successfully
+12/24/2023 06:44:51 PM - INFO - walpaper anime_208 is being downloaded
+12/24/2023 06:44:51 PM - INFO - walpaper anime_208 downloaded successfully
+12/24/2023 06:44:51 PM - INFO - walpaper anime_209 is being downloaded
+12/24/2023 06:44:52 PM - INFO - walpaper anime_209 downloaded successfully
+12/24/2023 06:44:52 PM - INFO - walpaper anime_210 is being downloaded
+12/24/2023 06:44:52 PM - INFO - walpaper anime_210 downloaded successfully
+12/24/2023 06:44:52 PM - INFO - walpaper anime_211 is being downloaded
+12/24/2023 06:44:53 PM - INFO - walpaper anime_211 downloaded successfully
+12/24/2023 06:44:53 PM - INFO - walpaper anime_212 is being downloaded
+12/24/2023 06:44:54 PM - INFO - walpaper anime_212 downloaded successfully
+12/24/2023 06:44:54 PM - INFO - walpaper anime_213 is being downloaded
+12/24/2023 06:44:54 PM - INFO - walpaper anime_213 downloaded successfully
+12/24/2023 06:44:54 PM - INFO - walpaper anime_214 is being downloaded
+12/24/2023 06:44:54 PM - INFO - walpaper anime_214 downloaded successfully
+12/24/2023 06:44:54 PM - INFO - walpaper anime_215 is being downloaded
+12/24/2023 06:44:55 PM - INFO - walpaper anime_215 downloaded successfully
+12/24/2023 06:44:55 PM - INFO - walpaper anime_216 is being downloaded
+12/24/2023 06:44:55 PM - INFO - walpaper anime_216 downloaded successfully
+12/24/2023 06:44:55 PM - INFO - walpaper anime_217 is being downloaded
+12/24/2023 06:44:56 PM - INFO - walpaper anime_217 downloaded successfully
+12/24/2023 06:44:56 PM - INFO - walpaper anime_218 is being downloaded
+12/24/2023 06:44:57 PM - INFO - walpaper anime_218 downloaded successfully
+12/24/2023 06:44:57 PM - INFO - walpaper anime_219 is being downloaded
+12/24/2023 06:44:57 PM - INFO - walpaper anime_219 downloaded successfully
+12/24/2023 06:44:57 PM - INFO - walpaper anime_220 is being downloaded
+12/24/2023 06:44:58 PM - INFO - walpaper anime_220 downloaded successfully
+12/24/2023 06:44:58 PM - INFO - walpaper anime_221 is being downloaded
+12/24/2023 06:44:58 PM - INFO - walpaper anime_221 downloaded successfully
+12/24/2023 06:44:58 PM - INFO - walpaper anime_222 is being downloaded
+12/24/2023 06:44:59 PM - INFO - walpaper anime_222 downloaded successfully
+12/24/2023 06:44:59 PM - INFO - walpaper anime_223 is being downloaded
+12/24/2023 06:44:59 PM - INFO - walpaper anime_223 downloaded successfully
+12/24/2023 06:44:59 PM - INFO - walpaper anime_224 is being downloaded
+12/24/2023 06:44:59 PM - INFO - walpaper anime_224 downloaded successfully
+12/24/2023 06:44:59 PM - INFO - walpaper anime_225 is being downloaded
+12/24/2023 06:45:00 PM - INFO - walpaper anime_225 downloaded successfully
+12/24/2023 06:45:00 PM - INFO - walpaper anime_226 is being downloaded
+12/24/2023 06:45:00 PM - INFO - walpaper anime_226 downloaded successfully
+12/24/2023 06:45:00 PM - INFO - walpaper anime_227 is being downloaded
+12/24/2023 06:45:01 PM - INFO - walpaper anime_227 downloaded successfully
+12/24/2023 06:45:01 PM - INFO - walpaper anime_228 is being downloaded
+12/24/2023 06:45:02 PM - INFO - walpaper anime_228 downloaded successfully
+12/24/2023 06:45:02 PM - INFO - walpaper anime_229 is being downloaded
+12/24/2023 06:45:03 PM - INFO - walpaper anime_229 downloaded successfully
+12/24/2023 06:45:03 PM - INFO - walpaper anime_230 is being downloaded
+12/24/2023 06:45:03 PM - INFO - walpaper anime_230 downloaded successfully
+12/24/2023 06:45:03 PM - INFO - walpaper anime_231 is being downloaded
+12/24/2023 06:45:04 PM - INFO - walpaper anime_231 downloaded successfully
+12/24/2023 06:45:04 PM - INFO - walpaper anime_232 is being downloaded
+12/24/2023 06:45:04 PM - INFO - walpaper anime_232 downloaded successfully
+12/24/2023 06:45:04 PM - INFO - walpaper anime_233 is being downloaded
+12/24/2023 06:45:05 PM - INFO - walpaper anime_233 downloaded successfully
+12/24/2023 06:45:05 PM - INFO - walpaper anime_234 is being downloaded
+12/24/2023 06:45:05 PM - INFO - walpaper anime_234 downloaded successfully
+12/24/2023 06:45:05 PM - INFO - walpaper anime_235 is being downloaded
+12/24/2023 06:45:06 PM - INFO - walpaper anime_235 downloaded successfully
+12/24/2023 06:45:06 PM - INFO - walpaper anime_236 is being downloaded
+12/24/2023 06:45:06 PM - INFO - walpaper anime_236 downloaded successfully
+12/24/2023 06:45:06 PM - INFO - walpaper anime_237 is being downloaded
+12/24/2023 06:45:07 PM - INFO - walpaper anime_237 downloaded successfully
+12/24/2023 06:45:07 PM - INFO - walpaper anime_238 is being downloaded
+12/24/2023 06:45:07 PM - INFO - walpaper anime_238 downloaded successfully
+12/24/2023 06:45:07 PM - INFO - walpaper anime_239 is being downloaded
+12/24/2023 06:45:08 PM - INFO - walpaper anime_239 downloaded successfully
+12/24/2023 06:45:08 PM - INFO - walpaper anime_240 is being downloaded
+12/24/2023 06:45:08 PM - INFO - walpaper anime_240 downloaded successfully
+12/24/2023 06:45:08 PM - INFO - walpaper anime_241 is being downloaded
+12/24/2023 06:45:09 PM - INFO - walpaper anime_241 downloaded successfully
+12/24/2023 06:45:09 PM - INFO - walpaper anime_242 is being downloaded
+12/24/2023 06:45:09 PM - INFO - walpaper anime_242 downloaded successfully

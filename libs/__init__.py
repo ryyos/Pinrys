@@ -1,1 +1,2 @@
-from .service.parser import Parser
+from .service.Pinterest import Pinterest
+from .utils.Logs import logger
